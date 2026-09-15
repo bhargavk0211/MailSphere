@@ -1,0 +1,43 @@
+# Azure App Service deployment – Backend
+
+trigger:
+  branches:
+    include:
+      - main
+  paths:
+    include:
+      - backend/**
+
+pool:
+  vmImage: "ubuntu-latest"
+
+variables:
+  azureSubscription: "YOUR_SERVICE_CONNECTION"
+  appName: "hyd-marketplace-api"
+  pythonVersion: "3.12"
+
+steps:
+  - task: UsePythonVersion@0
+    inputs:
+      versionSpec: "$(pythonVersion)"
+
+  - script: |
+      cd backend
+      python -m pip install --upgrade pip
+      pip install -r requirements.txt
+    displayName: "Install dependencies"
+
+  - task: ArchiveFiles@2
+    inputs:
+      rootFolderOrFile: "backend"
+      includeRootFolder: false
+      archiveType: "zip"
+      archiveFile: "$(Build.ArtifactStagingDirectory)/backend.zip"
+
+  - task: AzureWebApp@1
+    inputs:
+      azureSubscription: "$(azureSubscription)"
+      appType: "webAppLinux"
+      appName: "$(appName)"
+      package: "$(Build.ArtifactStagingDirectory)/backend.zip"
+      startUpCommand: "uvicorn app.main:app --host 0.0.0.0 --port 8000"

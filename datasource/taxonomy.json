@@ -1,0 +1,233 @@
+{
+  "version": "1.0",
+  "dl": "hydchat@contoso.com",
+  "categories": [
+    {
+      "id": "vehicles",
+      "label": "Vehicles",
+      "subcategories": [
+        "car",
+        "motorcycle",
+        "scooter",
+        "car-lease-transfer",
+        "accessories"
+      ]
+    },
+    {
+      "id": "real-estate",
+      "label": "Real Estate",
+      "subcategories": [
+        "flat-rent",
+        "flat-resale",
+        "flatmate",
+        "temporary-accommodation",
+        "pg-hostel"
+      ]
+    },
+    {
+      "id": "furniture-appliances",
+      "label": "Furniture & Appliances",
+      "subcategories": [
+        "furniture",
+        "appliances",
+        "move-out-bundle",
+        "free-giveaway"
+      ]
+    },
+    {
+      "id": "electronics",
+      "label": "Electronics",
+      "subcategories": [
+        "mobile",
+        "laptop",
+        "gaming",
+        "audio",
+        "accessories"
+      ]
+    },
+    {
+      "id": "vouchers-tickets",
+      "label": "Vouchers & Tickets",
+      "subcategories": [
+        "hotel-voucher",
+        "gift-card",
+        "movie-tickets",
+        "event-tickets",
+        "travel"
+      ]
+    },
+    {
+      "id": "memberships-subscriptions",
+      "label": "Memberships & Subscriptions",
+      "subcategories": [
+        "fitness",
+        "club",
+        "streaming",
+        "software"
+      ]
+    },
+    {
+      "id": "services",
+      "label": "Services & Recommendations",
+      "subcategories": [
+        "driving-school",
+        "domestic-help",
+        "tutor",
+        "packers-movers",
+        "repairs",
+        "other"
+      ]
+    },
+    {
+      "id": "carpool-travel",
+      "label": "Carpool & Travel",
+      "subcategories": [
+        "daily-commute",
+        "day-trip",
+        "airport-drop",
+        "outstation"
+      ]
+    },
+    {
+      "id": "community-events",
+      "label": "Community & Events",
+      "subcategories": [
+        "social-event",
+        "volunteering",
+        "sports",
+        "wellbeing"
+      ]
+    },
+    {
+      "id": "community-help",
+      "label": "Community Help",
+      "subcategories": [
+        "blood-requirement",
+        "emergency",
+        "lost-and-found"
+      ]
+    },
+    {
+      "id": "non-listing",
+      "label": "Not a listing (noise)",
+      "subcategories": [
+        "facilities-feedback",
+        "workplace-query",
+        "announcement",
+        "banter"
+      ]
+    }
+  ],
+  "intents": [
+    "sell",
+    "rent-out",
+    "transfer",
+    "wanted",
+    "giveaway",
+    "service-offer",
+    "recommendation-request",
+    "urgent-help",
+    "announce",
+    "question",
+    "discuss",
+    "multi"
+  ],
+  "statuses": [
+    {
+      "id": "available",
+      "meaning": "Open and active"
+    },
+    {
+      "id": "open",
+      "meaning": "Open request or registration"
+    },
+    {
+      "id": "negotiating",
+      "meaning": "Active price negotiation in thread"
+    },
+    {
+      "id": "reserved",
+      "meaning": "Buyer committed, handover pending"
+    },
+    {
+      "id": "partially-sold",
+      "meaning": "Some units/items gone"
+    },
+    {
+      "id": "partially-filled",
+      "meaning": "Some capacity remaining"
+    },
+    {
+      "id": "partially-claimed",
+      "meaning": "Some giveaway items claimed"
+    },
+    {
+      "id": "sold",
+      "meaning": "Explicitly closed by poster"
+    },
+    {
+      "id": "matched",
+      "meaning": "Demand met by an in-thread supply offer"
+    },
+    {
+      "id": "resolved",
+      "meaning": "Help request closed"
+    },
+    {
+      "id": "answered",
+      "meaning": "Question or request answered"
+    },
+    {
+      "id": "stale",
+      "meaning": "No poster activity, unanswered follow-ups"
+    },
+    {
+      "id": "expired",
+      "meaning": "Past its event date or validity"
+    },
+    {
+      "id": "duplicate",
+      "meaning": "Collapsed into an earlier listing"
+    },
+    {
+      "id": "not-a-listing",
+      "meaning": "Classified as noise"
+    }
+  ],
+  "status_signals": {
+    "sold": [
+      "sold",
+      "gone",
+      "no longer available",
+      "closing this",
+      "gets sold",
+      "taken"
+    ],
+    "reserved": [
+      "done",
+      "will collect",
+      "i'll take it",
+      "confirmed",
+      "blocked for"
+    ],
+    "negotiating": [
+      "would you take",
+      "last price",
+      "can you do",
+      "final offer"
+    ],
+    "bump": [
+      "bumping",
+      "reposting",
+      "still available",
+      "up again",
+      "got buried"
+    ],
+    "resolved": [
+      "arranged",
+      "thank you all",
+      "requirement met",
+      "closing this"
+    ]
+  }
+}

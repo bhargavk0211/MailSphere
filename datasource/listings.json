@@ -1,0 +1,1527 @@
+[
+  {
+    "listing_id": "lst-001",
+    "thread_id": "thr-001",
+    "source_message_ids": [
+      "msg-0001",
+      "msg-0002",
+      "msg-0003",
+      "msg-0004",
+      "msg-0005"
+    ],
+    "title": "Skoda Kushaq 1.5 Style MT (2022) — single owner",
+    "intent": "sell",
+    "category": "vehicles",
+    "subcategory": "car",
+    "price": {
+      "amount": 1400000,
+      "currency": "INR",
+      "unit": "total",
+      "negotiable": true,
+      "original_amount": 1450000,
+      "price_drops": 1
+    },
+    "attributes": {
+      "make": "Skoda",
+      "model": "Kushaq",
+      "variant": "1.5 Style MT",
+      "year": 2022,
+      "fuel": "Petrol",
+      "transmission": "Manual",
+      "km_driven": 38500,
+      "owners": 1,
+      "colour": "Candy White",
+      "insurance_valid_till": "2027-03",
+      "accident_history": false,
+      "service_records": true
+    },
+    "location": {
+      "area": "Nallagandla",
+      "city": "Hyderabad"
+    },
+    "urgency": "normal",
+    "status": "negotiating",
+    "status_evidence": "Buyer offer at 2026-07-30T18:22 + seller price drop at 2026-08-02T10:15",
+    "posted_at": "2026-07-28T09:12:00+05:30",
+    "last_activity_at": "2026-08-02T10:15:00+05:30",
+    "engagement": {
+      "replies": 4,
+      "unique_participants": 3,
+      "photos": 2,
+      "has_attachments": true
+    },
+    "contact": {
+      "display_name": "Aarav Menon",
+      "masked_email": "a****@contoso.com",
+      "teams_dm": true,
+      "posted_on_behalf_of": false,
+      "pii_sensitive": false
+    },
+    "extraction_confidence": 0.96,
+    "cross_posted": false,
+    "featured_score": 0.763
+  },
+  {
+    "listing_id": "lst-002",
+    "thread_id": "thr-002",
+    "source_message_ids": [
+      "msg-0006",
+      "msg-0007",
+      "msg-0008"
+    ],
+    "title": "Royal Enfield Classic 350 (2019) — 22k km",
+    "intent": "sell",
+    "category": "vehicles",
+    "subcategory": "motorcycle",
+    "price": {
+      "amount": 135000,
+      "currency": "INR",
+      "unit": "total",
+      "negotiable": false
+    },
+    "attributes": {
+      "make": "Royal Enfield",
+      "model": "Classic 350",
+      "year": 2019,
+      "km_driven": 22000,
+      "colour": "Stealth Black",
+      "recent_work": [
+        "new tyres",
+        "new battery"
+      ],
+      "rc_valid_till": "2028"
+    },
+    "location": {
+      "area": "Gachibowli",
+      "city": "Hyderabad"
+    },
+    "urgency": "normal",
+    "status": "sold",
+    "status_evidence": "Seller replied 'Sold.' at 2026-07-24T19:10",
+    "posted_at": "2026-07-21T20:44:00+05:30",
+    "last_activity_at": "2026-07-24T19:10:00+05:30",
+    "engagement": {
+      "replies": 2,
+      "unique_participants": 2,
+      "photos": 1,
+      "has_attachments": true
+    },
+    "contact": {
+      "display_name": "Karthik Sundar",
+      "masked_email": "k****@contoso.com",
+      "teams_dm": true,
+      "posted_on_behalf_of": false,
+      "pii_sensitive": false
+    },
+    "extraction_confidence": 0.93,
+    "cross_posted": false,
+    "poc_note": "Tests extraction from lowercase, abbreviation-heavy, punctuation-free text.",
+    "featured_score": 0.0
+  },
+  {
+    "listing_id": "lst-003",
+    "thread_id": "thr-003",
+    "source_message_ids": [
+      "msg-0009",
+      "msg-0010",
+      "msg-0011"
+    ],
+    "title": "Hyundai Creta SX(O) diesel AT — lease transfer, 24 months left",
+    "intent": "transfer",
+    "category": "vehicles",
+    "subcategory": "car-lease-transfer",
+    "price": {
+      "amount": 41200,
+      "currency": "INR",
+      "unit": "per-month",
+      "negotiable": false,
+      "residual_value": 620000
+    },
+    "attributes": {
+      "make": "Hyundai",
+      "model": "Creta",
+      "variant": "SX (O) Diesel AT",
+      "year": 2024,
+      "km_driven": 19000,
+      "lease_months_remaining": 24,
+      "transfer_process": "ALD portal",
+      "transfer_lead_time_weeks": 3,
+      "reason": "relocation"
+    },
+    "location": {
+      "city": "Hyderabad"
+    },
+    "urgency": "normal",
+    "status": "available",
+    "posted_at": "2026-08-01T13:30:00+05:30",
+    "last_activity_at": "2026-08-02T09:50:00+05:30",
+    "engagement": {
+      "replies": 2,
+      "unique_participants": 2,
+      "photos": 0,
+      "has_attachments": false
+    },
+    "contact": {
+      "display_name": "Sneha Pillai",
+      "masked_email": "s****@contoso.com",
+      "teams_dm": true,
+      "posted_on_behalf_of": false,
+      "pii_sensitive": false
+    },
+    "extraction_confidence": 0.91,
+    "cross_posted": false,
+    "featured_score": 0.588
+  },
+  {
+    "listing_id": "lst-004",
+    "thread_id": "thr-004",
+    "source_message_ids": [
+      "msg-0012"
+    ],
+    "title": "Wanted: used scooter under ₹55k for campus commute",
+    "intent": "wanted",
+    "category": "vehicles",
+    "subcategory": "scooter",
+    "price": {
+      "amount": 55000,
+      "currency": "INR",
+      "unit": "budget-max",
+      "negotiable": true
+    },
+    "attributes": {
+      "preferred_models": [
+        "Honda Activa",
+        "TVS Jupiter",
+        "Suzuki Access"
+      ],
+      "min_year": 2021,
+      "requires_valid_insurance": true
+    },
+    "location": {
+      "area": "Kondapur",
+      "city": "Hyderabad"
+    },
+    "urgency": "normal",
+    "status": "open",
+    "posted_at": "2026-08-03T17:05:00+05:30",
+    "last_activity_at": "2026-08-03T17:05:00+05:30",
+    "engagement": {
+      "replies": 0,
+      "unique_participants": 1,
+      "photos": 0,
+      "has_attachments": false
+    },
+    "contact": {
+      "display_name": "Meera Joshi",
+      "masked_email": "m****@contoso.com",
+      "teams_dm": true,
+      "posted_on_behalf_of": false,
+      "pii_sensitive": false
+    },
+    "extraction_confidence": 0.89,
+    "cross_posted": false,
+    "poc_note": "Demand-side listing — feeds the wants/supply matching engine.",
+    "featured_score": 0.447
+  },
+  {
+    "listing_id": "lst-005",
+    "thread_id": "thr-005",
+    "source_message_ids": [
+      "msg-0013",
+      "msg-0014",
+      "msg-0015"
+    ],
+    "title": "2 BHK semi-furnished — Mantri Celestia, Gachibowli",
+    "intent": "rent-out",
+    "category": "real-estate",
+    "subcategory": "flat-rent",
+    "price": {
+      "amount": 42000,
+      "currency": "INR",
+      "unit": "per-month",
+      "negotiable": false,
+      "maintenance": 3500,
+      "deposit_months": 3
+    },
+    "attributes": {
+      "bhk": 2,
+      "area_sqft": 1250,
+      "facing": "East",
+      "floor": 19,
+      "furnishing": "semi-furnished",
+      "balconies": 2,
+      "inclusions": [
+        "modular kitchen",
+        "wardrobes",
+        "ACs",
+        "geysers"
+      ],
+      "amenities": [
+        "gym",
+        "pool",
+        "kids play area",
+        "24x7 security"
+      ],
+      "tenant_preference": "family or working professionals",
+      "brokers": false
+    },
+    "location": {
+      "society": "Mantri Celestia",
+      "area": "Gachibowli",
+      "city": "Hyderabad",
+      "unit": "B-1905"
+    },
+    "available_from": "2026-08-15",
+    "urgency": "normal",
+    "status": "available",
+    "posted_at": "2026-07-30T10:00:00+05:30",
+    "last_activity_at": "2026-07-31T09:40:00+05:30",
+    "engagement": {
+      "replies": 2,
+      "unique_participants": 2,
+      "photos": 3,
+      "has_attachments": true
+    },
+    "contact": {
+      "display_name": "Joseph Abraham",
+      "masked_email": "j****@contoso.com",
+      "teams_dm": true,
+      "posted_on_behalf_of": false,
+      "pii_sensitive": false
+    },
+    "extraction_confidence": 0.97,
+    "cross_posted": false,
+    "featured_score": 0.634
+  },
+  {
+    "listing_id": "lst-006",
+    "thread_id": "thr-006",
+    "source_message_ids": [
+      "msg-0016",
+      "msg-0017"
+    ],
+    "title": "3 BHK fully furnished — PBEL City",
+    "intent": "rent-out",
+    "category": "real-estate",
+    "subcategory": "flat-rent",
+    "price": {
+      "amount": 46000,
+      "currency": "INR",
+      "unit": "per-month",
+      "negotiable": true,
+      "original_amount": 48000,
+      "price_drops": 1,
+      "deposit_amount": 200000,
+      "maintenance_included": true
+    },
+    "attributes": {
+      "bhk": 3,
+      "area_sqft": 1685,
+      "facing": "East",
+      "floor": 14,
+      "corner_unit": true,
+      "furnishing": "fully furnished",
+      "amenities": [
+        "clubhouse",
+        "3 pools",
+        "tennis court",
+        "school in campus",
+        "ORR shuttle"
+      ],
+      "lock_in_months": 24
+    },
+    "location": {
+      "society": "PBEL City",
+      "city": "Hyderabad",
+      "unit": "J-1406"
+    },
+    "available_from": "immediate",
+    "urgency": "normal",
+    "status": "available",
+    "status_evidence": "Owner bumped thread at 2026-08-04T11:00 confirming availability",
+    "posted_at": "2026-07-25T19:30:00+05:30",
+    "last_activity_at": "2026-08-04T11:00:00+05:30",
+    "engagement": {
+      "replies": 1,
+      "unique_participants": 1,
+      "photos": 2,
+      "has_attachments": true
+    },
+    "contact": {
+      "display_name": "Sridhar Reddy",
+      "masked_email": "s****@contoso.com",
+      "teams_dm": true,
+      "posted_on_behalf_of": false,
+      "pii_sensitive": false
+    },
+    "extraction_confidence": 0.95,
+    "cross_posted": false,
+    "poc_note": "Tests bump detection and price-drop tracking within one thread.",
+    "featured_score": 0.63
+  },
+  {
+    "listing_id": "lst-007",
+    "thread_id": "thr-007",
+    "source_message_ids": [
+      "msg-0018"
+    ],
+    "title": "Male flatmate wanted — semi-master room, 4BHK, Prestige High Fields",
+    "intent": "rent-out",
+    "category": "real-estate",
+    "subcategory": "flatmate",
+    "price": {
+      "amount": 16500,
+      "currency": "INR",
+      "unit": "per-month",
+      "negotiable": false,
+      "maintenance": 1200,
+      "deposit_months": 1
+    },
+    "attributes": {
+      "bhk": 4,
+      "room_type": "semi-master",
+      "area_sqft": 2150,
+      "floor": 5,
+      "furnishing": "semi-furnished",
+      "existing_flatmates": 3,
+      "gender_preference": "male",
+      "food_preference": "any",
+      "smoking": false,
+      "utilities": "split 4 ways"
+    },
+    "location": {
+      "society": "Prestige High Fields",
+      "area": "Gachibowli",
+      "city": "Hyderabad"
+    },
+    "available_from": "2026-09-01",
+    "urgency": "normal",
+    "status": "available",
+    "posted_at": "2026-08-05T14:20:00+05:30",
+    "last_activity_at": "2026-08-05T14:20:00+05:30",
+    "engagement": {
+      "replies": 0,
+      "unique_participants": 1,
+      "photos": 0,
+      "has_attachments": false
+    },
+    "contact": {
+      "display_name": "Tanmay Ghosh",
+      "masked_email": "t****@contoso.com",
+      "teams_dm": true,
+      "posted_on_behalf_of": true,
+      "pii_sensitive": false
+    },
+    "extraction_confidence": 0.94,
+    "cross_posted": false,
+    "poc_note": "Tests 'posting on behalf of a friend' — poster is not the contact/owner.",
+    "featured_score": 0.534
+  },
+  {
+    "listing_id": "lst-008",
+    "thread_id": "thr-008",
+    "source_message_ids": [
+      "msg-0019"
+    ],
+    "title": "Short-stay private room near campus — daily or monthly",
+    "intent": "rent-out",
+    "category": "real-estate",
+    "subcategory": "temporary-accommodation",
+    "price": {
+      "amount": 900,
+      "currency": "INR",
+      "unit": "per-day",
+      "negotiable": true,
+      "alt_price": {
+        "amount": 22000,
+        "unit": "per-month"
+      }
+    },
+    "attributes": {
+      "room_type": "private room with attached washroom",
+      "flat_type": "3BHK",
+      "inclusions": [
+        "wifi",
+        "housekeeping 2x/week"
+      ],
+      "walk_to_campus_min": 10,
+      "dates_flexible": true
+    },
+    "location": {
+      "area": "Kondapur",
+      "city": "Hyderabad"
+    },
+    "available_from": "immediate",
+    "urgency": "normal",
+    "status": "available",
+    "posted_at": "2026-08-04T08:45:00+05:30",
+    "last_activity_at": "2026-08-04T08:45:00+05:30",
+    "engagement": {
+      "replies": 0,
+      "unique_participants": 1,
+      "photos": 0,
+      "has_attachments": false
+    },
+    "contact": {
+      "display_name": "Farhan Qureshi",
+      "masked_email": "f****@contoso.com",
+      "teams_dm": true,
+      "posted_on_behalf_of": false,
+      "pii_sensitive": false
+    },
+    "extraction_confidence": 0.9,
+    "cross_posted": false,
+    "poc_note": "Tests dual pricing units (per-day and per-month) on one listing.",
+    "featured_score": 0.516
+  },
+  {
+    "listing_id": "lst-009",
+    "thread_id": "thr-009",
+    "source_message_ids": [
+      "msg-0020",
+      "msg-0021",
+      "msg-0022"
+    ],
+    "title": "3 BHK resale — Magnum Heights, Nallagandla, 1600 sft",
+    "intent": "sell",
+    "category": "real-estate",
+    "subcategory": "flat-resale",
+    "price": {
+      "amount": 12800000,
+      "currency": "INR",
+      "unit": "total",
+      "negotiable": true,
+      "rate_per_sqft": 8000
+    },
+    "attributes": {
+      "bhk": 3,
+      "area_sqft": 1600,
+      "facing": "West",
+      "floor": 9,
+      "car_parks": 2,
+      "parking_type": "basement",
+      "building_age_years": 7,
+      "title_clear": true,
+      "occupancy_certificate": true,
+      "loan_eligible": true,
+      "brokers": false
+    },
+    "location": {
+      "society": "Magnum Heights",
+      "area": "Nallagandla",
+      "city": "Hyderabad",
+      "landmark": "opposite Aparna Sarovar"
+    },
+    "urgency": "normal",
+    "status": "available",
+    "posted_at": "2026-07-18T12:00:00+05:30",
+    "last_activity_at": "2026-07-20T16:10:00+05:30",
+    "engagement": {
+      "replies": 2,
+      "unique_participants": 2,
+      "photos": 1,
+      "has_attachments": true
+    },
+    "contact": {
+      "display_name": "Lakshmi Narayan",
+      "masked_email": "l****@contoso.com",
+      "teams_dm": true,
+      "posted_on_behalf_of": false,
+      "pii_sensitive": false
+    },
+    "extraction_confidence": 0.95,
+    "cross_posted": false,
+    "featured_score": 0.481
+  },
+  {
+    "listing_id": "lst-010",
+    "thread_id": "thr-010",
+    "source_message_ids": [
+      "msg-0023",
+      "msg-0024",
+      "msg-0025"
+    ],
+    "title": "Move-out sale — 9 items, Vertex Panache, Kokapet",
+    "intent": "sell",
+    "category": "furniture-appliances",
+    "subcategory": "move-out-bundle",
+    "price": {
+      "amount": 78300,
+      "currency": "INR",
+      "unit": "bundle-total",
+      "negotiable": true
+    },
+    "attributes": {
+      "item_count": 9,
+      "bulk_preferred": true,
+      "must_go_by": "2026-08-20"
+    },
+    "location": {
+      "society": "Vertex Panache",
+      "area": "Kokapet",
+      "city": "Hyderabad"
+    },
+    "urgency": "normal",
+    "status": "partially-sold",
+    "status_evidence": "Seller marked AC and TV sold at 2026-07-29T19:00",
+    "posted_at": "2026-07-27T21:15:00+05:30",
+    "last_activity_at": "2026-07-29T19:00:00+05:30",
+    "engagement": {
+      "replies": 2,
+      "unique_participants": 2,
+      "photos": 3,
+      "has_attachments": true
+    },
+    "contact": {
+      "display_name": "Ritu Malhotra",
+      "masked_email": "r****@contoso.com",
+      "teams_dm": true,
+      "posted_on_behalf_of": false,
+      "pii_sensitive": false
+    },
+    "extraction_confidence": 0.92,
+    "cross_posted": false,
+    "child_items": [
+      {
+        "name": "Godrej 3-door wardrobe",
+        "price": 8000,
+        "category": "furniture",
+        "age_years": 2,
+        "status": "available"
+      },
+      {
+        "name": "Queen bed + Sleepwell mattress",
+        "price": 12000,
+        "category": "furniture",
+        "status": "available"
+      },
+      {
+        "name": "LG 6.5kg front load washing machine",
+        "price": 14000,
+        "category": "appliances",
+        "year": 2023,
+        "status": "available"
+      },
+      {
+        "name": "Voltas 1.5T 3-star split AC",
+        "price": 16500,
+        "category": "appliances",
+        "status": "sold"
+      },
+      {
+        "name": "Study table + ergonomic chair",
+        "price": 4500,
+        "category": "furniture",
+        "status": "available"
+      },
+      {
+        "name": "Samsung 43\" 4K smart TV",
+        "price": 18000,
+        "category": "electronics",
+        "status": "sold"
+      },
+      {
+        "name": "Prestige induction cooktop + cookware",
+        "price": 1800,
+        "category": "appliances",
+        "status": "available"
+      },
+      {
+        "name": "Aquaguard RO water purifier",
+        "price": 3500,
+        "category": "appliances",
+        "status": "available"
+      },
+      {
+        "name": "Assorted plants and pots",
+        "price": 0,
+        "category": "giveaway",
+        "status": "available"
+      }
+    ],
+    "poc_note": "Hardest case in the set: one message = 9 sub-listings across 4 categories, with per-item status inferred from a later reply.",
+    "featured_score": 0.551
+  },
+  {
+    "listing_id": "lst-011",
+    "thread_id": "thr-011",
+    "source_message_ids": [
+      "msg-0026"
+    ],
+    "title": "Combined post — move-out items + 2BHK for rent (Narsingi)",
+    "intent": "multi",
+    "category": "multi",
+    "subcategory": "combined-post",
+    "attributes": {},
+    "location": {},
+    "urgency": "normal",
+    "status": "available",
+    "posted_at": "2026-08-02T16:40:00+05:30",
+    "last_activity_at": "2026-08-02T16:40:00+05:30",
+    "engagement": {
+      "replies": 0,
+      "unique_participants": 1,
+      "photos": 0,
+      "has_attachments": false
+    },
+    "contact": {
+      "display_name": "Deepak Rao",
+      "masked_email": "d****@contoso.com",
+      "teams_dm": true,
+      "posted_on_behalf_of": false,
+      "pii_sensitive": false
+    },
+    "extraction_confidence": 0.78,
+    "cross_posted": true,
+    "split_into": [
+      {
+        "intent": "sell",
+        "category": "furniture-appliances",
+        "subcategory": "appliance",
+        "title": "Samsung 253L double door fridge (3 yrs)",
+        "price": {
+          "amount": 11000,
+          "currency": "INR",
+          "unit": "total"
+        },
+        "location": {
+          "area": "Manikonda",
+          "city": "Hyderabad"
+        },
+        "status": "available"
+      },
+      {
+        "intent": "sell",
+        "category": "furniture-appliances",
+        "subcategory": "furniture",
+        "title": "4-seater dining table",
+        "price": {
+          "amount": 6000,
+          "currency": "INR",
+          "unit": "total"
+        },
+        "location": {
+          "area": "Manikonda",
+          "city": "Hyderabad"
+        },
+        "status": "available"
+      },
+      {
+        "intent": "rent-out",
+        "category": "real-estate",
+        "subcategory": "flat-rent",
+        "title": "2 BHK for rent — My Home Avatar, Narsingi",
+        "price": {
+          "amount": 32000,
+          "currency": "INR",
+          "unit": "per-month",
+          "deposit_months": 2
+        },
+        "attributes": {
+          "bhk": 2,
+          "setup_cost_bundle": 15000
+        },
+        "location": {
+          "society": "My Home Avatar",
+          "area": "Narsingi",
+          "city": "Hyderabad"
+        },
+        "available_from": "2026-09-01",
+        "status": "available"
+      }
+    ],
+    "poc_note": "Tests post-splitting: one message must fan out into three listings in two categories. Also tests cross-post dedupe (same content sent to another city DL).",
+    "featured_score": 0.267
+  },
+  {
+    "listing_id": "lst-012",
+    "thread_id": "thr-012",
+    "source_message_ids": [
+      "msg-0027",
+      "msg-0028",
+      "msg-0029",
+      "msg-0030"
+    ],
+    "title": "iPhone 15 Pro 256GB Natural Titanium — 94% battery",
+    "intent": "sell",
+    "category": "electronics",
+    "subcategory": "mobile",
+    "price": {
+      "amount": 60000,
+      "currency": "INR",
+      "unit": "total",
+      "negotiable": true,
+      "original_amount": 62000,
+      "agreed_amount": 60000
+    },
+    "attributes": {
+      "brand": "Apple",
+      "model": "iPhone 15 Pro",
+      "storage_gb": 256,
+      "colour": "Natural Titanium",
+      "purchase_date": "2024-11",
+      "battery_health_pct": 94,
+      "accessories": [
+        "box",
+        "cable",
+        "2 cases"
+      ],
+      "condition": "excellent"
+    },
+    "location": {
+      "area": "Kondapur",
+      "city": "Hyderabad"
+    },
+    "urgency": "normal",
+    "status": "reserved",
+    "status_evidence": "Buyer confirmed 'Done, will collect tomorrow' at 2026-08-05T12:35",
+    "posted_at": "2026-08-05T11:25:00+05:30",
+    "last_activity_at": "2026-08-05T12:35:00+05:30",
+    "engagement": {
+      "replies": 3,
+      "unique_participants": 2,
+      "photos": 2,
+      "has_attachments": true
+    },
+    "contact": {
+      "display_name": "Aditi Kulkarni",
+      "masked_email": "a****@contoso.com",
+      "teams_dm": true,
+      "posted_on_behalf_of": false,
+      "pii_sensitive": false
+    },
+    "extraction_confidence": 0.96,
+    "cross_posted": false,
+    "poc_note": "Tests negotiation tracking — asking price, counter-offer, agreed price, and reserved state.",
+    "featured_score": 0.745
+  },
+  {
+    "listing_id": "lst-013",
+    "thread_id": "thr-013",
+    "source_message_ids": [
+      "msg-0031",
+      "msg-0032",
+      "msg-0033"
+    ],
+    "title": "PS5 Slim (digital) + 2 controllers + 4 games",
+    "intent": "sell",
+    "category": "electronics",
+    "subcategory": "gaming",
+    "price": {
+      "amount": 42000,
+      "currency": "INR",
+      "unit": "bundle-total",
+      "negotiable": false,
+      "split_allowed": false
+    },
+    "attributes": {
+      "brand": "Sony",
+      "model": "PS5 Slim",
+      "edition": "Digital",
+      "age_months": 8,
+      "controllers": 2,
+      "games": [
+        "FC26",
+        "Spider-Man 2",
+        "GT7",
+        "Elden Ring"
+      ],
+      "bills": true
+    },
+    "location": {
+      "area": "Miyapur",
+      "city": "Hyderabad"
+    },
+    "urgency": "normal",
+    "status": "stale",
+    "status_evidence": "No seller response for 21 days; unanswered 'is it gone?' at 2026-07-19T13:45",
+    "posted_at": "2026-07-15T22:10:00+05:30",
+    "last_activity_at": "2026-07-19T13:45:00+05:30",
+    "engagement": {
+      "replies": 2,
+      "unique_participants": 2,
+      "photos": 0,
+      "has_attachments": false
+    },
+    "contact": {
+      "display_name": "Imran Sheikh",
+      "masked_email": "i****@contoso.com",
+      "teams_dm": true,
+      "posted_on_behalf_of": false,
+      "pii_sensitive": false
+    },
+    "extraction_confidence": 0.88,
+    "cross_posted": false,
+    "corrections_applied": [
+      "edition changed disc -> digital by seller follow-up"
+    ],
+    "poc_note": "Tests self-correction in a later message and stale/expiry inference from silence.",
+    "featured_score": 0.39
+  },
+  {
+    "listing_id": "lst-014",
+    "thread_id": "thr-014",
+    "source_message_ids": [
+      "msg-0034",
+      "msg-0035"
+    ],
+    "title": "2 x Amex Taj vouchers (₹10,000 each) at 30% off",
+    "intent": "sell",
+    "category": "vouchers-tickets",
+    "subcategory": "hotel-voucher",
+    "price": {
+      "amount": 7000,
+      "currency": "INR",
+      "unit": "per-item",
+      "negotiable": false,
+      "face_value": 10000,
+      "discount_pct": 30,
+      "quantity": 2,
+      "split_allowed": true
+    },
+    "attributes": {
+      "brand": "Taj / Vivanta / SeleQtions",
+      "redeemable_in": "India",
+      "expiry_dates": [
+        "2026-10",
+        "2027-01"
+      ],
+      "transfer": "code shared after payment"
+    },
+    "location": {},
+    "expires_at": "2026-10-31",
+    "urgency": "normal",
+    "status": "partially-sold",
+    "status_evidence": "One unit claimed at 2026-08-02T08:30; second unit still open",
+    "posted_at": "2026-08-01T18:00:00+05:30",
+    "last_activity_at": "2026-08-02T08:30:00+05:30",
+    "engagement": {
+      "replies": 1,
+      "unique_participants": 2,
+      "photos": 0,
+      "has_attachments": false
+    },
+    "contact": {
+      "display_name": "Pooja Agarwal",
+      "masked_email": "p****@contoso.com",
+      "teams_dm": true,
+      "posted_on_behalf_of": false,
+      "pii_sensitive": false
+    },
+    "extraction_confidence": 0.93,
+    "cross_posted": false,
+    "poc_note": "Tests quantity handling and hard expiry — listing must auto-retire at voucher expiry.",
+    "featured_score": 0.475
+  },
+  {
+    "listing_id": "lst-015",
+    "thread_id": "thr-015",
+    "source_message_ids": [
+      "msg-0036"
+    ],
+    "title": "2 x The Odyssey tickets — ALLU Cinemas Kokapet, Sun 9 Aug",
+    "intent": "sell",
+    "category": "vouchers-tickets",
+    "subcategory": "movie-tickets",
+    "price": {
+      "amount": 1100,
+      "currency": "INR",
+      "unit": "bundle-total",
+      "negotiable": false,
+      "at_cost": true,
+      "quantity": 2,
+      "split_allowed": false
+    },
+    "attributes": {
+      "event": "The Odyssey",
+      "venue": "ALLU Cinemas, Kokapet",
+      "show_datetime": "2026-08-09T13:20:00+05:30",
+      "seat_type": "recliner"
+    },
+    "location": {
+      "area": "Kokapet",
+      "city": "Hyderabad"
+    },
+    "expires_at": "2026-08-09T13:20:00+05:30",
+    "urgency": "high",
+    "status": "available",
+    "posted_at": "2026-08-06T10:05:00+05:30",
+    "last_activity_at": "2026-08-06T10:05:00+05:30",
+    "engagement": {
+      "replies": 0,
+      "unique_participants": 1,
+      "photos": 0,
+      "has_attachments": false
+    },
+    "contact": {
+      "display_name": "Vaishnavi Rao",
+      "masked_email": "v****@contoso.com",
+      "teams_dm": true,
+      "posted_on_behalf_of": false,
+      "pii_sensitive": false
+    },
+    "extraction_confidence": 0.97,
+    "cross_posted": false,
+    "poc_note": "Time-critical listing — must surface in 'Closing soon' and auto-expire after showtime.",
+    "featured_score": 0.635
+  },
+  {
+    "listing_id": "lst-016",
+    "thread_id": "thr-016",
+    "source_message_ids": [
+      "msg-0037"
+    ],
+    "title": "FitPass Pro annual membership transfer — 10 months left",
+    "intent": "transfer",
+    "category": "memberships-subscriptions",
+    "subcategory": "fitness",
+    "price": {
+      "amount": 11000,
+      "currency": "INR",
+      "unit": "total",
+      "negotiable": true,
+      "original_amount": 24000,
+      "months_remaining": 10
+    },
+    "attributes": {
+      "brand": "FitPass",
+      "tier": "Pro",
+      "valid_till": "2027-06-01",
+      "coverage": "1000+ gyms and studios in Hyderabad",
+      "inclusions": [
+        "unlimited check-ins",
+        "swimming",
+        "CrossFit"
+      ],
+      "transfer_supported": true,
+      "transfer_days": 3,
+      "reason": "relocation"
+    },
+    "location": {},
+    "urgency": "normal",
+    "status": "available",
+    "posted_at": "2026-07-31T15:50:00+05:30",
+    "last_activity_at": "2026-07-31T15:50:00+05:30",
+    "engagement": {
+      "replies": 0,
+      "unique_participants": 1,
+      "photos": 0,
+      "has_attachments": false
+    },
+    "contact": {
+      "display_name": "Harish Chandra",
+      "masked_email": "h****@contoso.com",
+      "teams_dm": true,
+      "posted_on_behalf_of": true,
+      "pii_sensitive": false
+    },
+    "extraction_confidence": 0.92,
+    "cross_posted": false,
+    "featured_score": 0.388
+  },
+  {
+    "listing_id": "lst-017",
+    "thread_id": "thr-017",
+    "source_message_ids": [
+      "msg-0038",
+      "msg-0039",
+      "msg-0040",
+      "msg-0041"
+    ],
+    "title": "Driving school recommendations near Kondapur Junction",
+    "intent": "recommendation-request",
+    "category": "services",
+    "subcategory": "driving-school",
+    "attributes": {
+      "requirements": [
+        "female instructors",
+        "weekend batches"
+      ],
+      "recommendations": [
+        {
+          "name": "Sri Sai Motor Driving School",
+          "area": "Botanical Garden",
+          "fee": 8500,
+          "duration_days": 30,
+          "endorsements": 2,
+          "sentiment": "positive"
+        },
+        {
+          "name": "Driving school opposite Kondapur bus stop",
+          "endorsements": 0,
+          "sentiment": "negative",
+          "reason": "cancelled sessions"
+        }
+      ]
+    },
+    "location": {
+      "area": "Kondapur",
+      "city": "Hyderabad"
+    },
+    "urgency": "normal",
+    "status": "answered",
+    "status_evidence": "3 replies with 2 endorsements for one provider",
+    "posted_at": "2026-07-29T09:20:00+05:30",
+    "last_activity_at": "2026-07-30T10:45:00+05:30",
+    "engagement": {
+      "replies": 3,
+      "unique_participants": 4,
+      "photos": 0,
+      "has_attachments": false
+    },
+    "contact": {
+      "display_name": "Swathi Kamath",
+      "masked_email": "s****@contoso.com",
+      "teams_dm": true,
+      "posted_on_behalf_of": false,
+      "pii_sensitive": false
+    },
+    "extraction_confidence": 0.87,
+    "cross_posted": true,
+    "poc_note": "Not a marketplace listing — becomes a crowd-sourced local services knowledge base entry. Tests aggregating recommendations and sentiment across replies.",
+    "featured_score": 0.483
+  },
+  {
+    "listing_id": "lst-018",
+    "thread_id": "thr-018",
+    "source_message_ids": [
+      "msg-0042"
+    ],
+    "title": "Cook available — Nallagandla / Tellapur, morning or evening slots",
+    "intent": "service-offer",
+    "category": "services",
+    "subcategory": "domestic-help",
+    "price": {
+      "amount": 4000,
+      "currency": "INR",
+      "unit": "per-month",
+      "negotiable": true,
+      "basis": "2 people, one-time cooking"
+    },
+    "attributes": {
+      "service": "cook",
+      "cuisines": [
+        "South Indian",
+        "North Indian"
+      ],
+      "slots": [
+        "07:00-09:00",
+        "18:00-20:00"
+      ],
+      "referred_by_employee": true,
+      "years_known": 3,
+      "vacancies": 2
+    },
+    "location": {
+      "area": "Nallagandla / Tellapur",
+      "city": "Hyderabad"
+    },
+    "urgency": "normal",
+    "status": "available",
+    "posted_at": "2026-08-03T07:30:00+05:30",
+    "last_activity_at": "2026-08-03T07:30:00+05:30",
+    "engagement": {
+      "replies": 0,
+      "unique_participants": 1,
+      "photos": 0,
+      "has_attachments": false
+    },
+    "contact": {
+      "display_name": "Anjali Menon",
+      "masked_email": "a****@contoso.com",
+      "teams_dm": true,
+      "posted_on_behalf_of": false,
+      "pii_sensitive": true
+    },
+    "extraction_confidence": 0.89,
+    "cross_posted": false,
+    "poc_note": "Contains third-party contact details — tests PII masking and consent handling.",
+    "featured_score": 0.501
+  },
+  {
+    "listing_id": "lst-019",
+    "thread_id": "thr-019",
+    "source_message_ids": [
+      "msg-0043",
+      "msg-0044",
+      "msg-0045"
+    ],
+    "title": "Transport to Srisailam from Nallagandla — day trip",
+    "intent": "wanted",
+    "category": "carpool-travel",
+    "subcategory": "day-trip",
+    "attributes": {
+      "origin": "Nallagandla",
+      "destination": "Srisailam",
+      "trip_type": "day-trip",
+      "travellers": "family (women)",
+      "offers": [
+        {
+          "type": "bus",
+          "operator": "APSRTC",
+          "boarding": "Gowliguda",
+          "departs": "04:00",
+          "returns": "23:00",
+          "price_per_head": 1200
+        },
+        {
+          "type": "carpool",
+          "date": "2026-08-16",
+          "origin": "Kondapur",
+          "vehicle": "Innova",
+          "seats_free": 2,
+          "share_per_head": 900
+        }
+      ]
+    },
+    "location": {},
+    "urgency": "normal",
+    "status": "matched",
+    "status_evidence": "Two supply offers posted within 14 hours of the request",
+    "posted_at": "2026-08-02T20:00:00+05:30",
+    "last_activity_at": "2026-08-03T10:00:00+05:30",
+    "engagement": {
+      "replies": 2,
+      "unique_participants": 3,
+      "photos": 0,
+      "has_attachments": false
+    },
+    "contact": {
+      "display_name": "Suresh Babu",
+      "masked_email": "s****@contoso.com",
+      "teams_dm": true,
+      "posted_on_behalf_of": false,
+      "pii_sensitive": false
+    },
+    "extraction_confidence": 0.9,
+    "cross_posted": false,
+    "poc_note": "Wanted post that attracted supply in-thread — the matching demo case.",
+    "featured_score": 0.462
+  },
+  {
+    "listing_id": "lst-020",
+    "thread_id": "thr-020",
+    "source_message_ids": [
+      "msg-0046",
+      "msg-0047",
+      "msg-0048"
+    ],
+    "title": "Daily carpool — Bachupally to campus, 1 seat left",
+    "intent": "service-offer",
+    "category": "carpool-travel",
+    "subcategory": "daily-commute",
+    "price": {
+      "amount": 3500,
+      "currency": "INR",
+      "unit": "per-month",
+      "negotiable": false
+    },
+    "attributes": {
+      "origin": "Bachupally",
+      "destination": "Campus",
+      "depart": "08:15",
+      "return": "18:30",
+      "days": "Mon-Thu",
+      "vehicle": "Sedan (AC)",
+      "seats_total": 2,
+      "seats_remaining": 1,
+      "pickup_points": [
+        "Miyapur",
+        "Botanical Garden"
+      ]
+    },
+    "location": {
+      "area": "Bachupally",
+      "city": "Hyderabad"
+    },
+    "urgency": "normal",
+    "status": "partially-filled",
+    "status_evidence": "Seat count updated by poster to 1 at 2026-07-25T10:00",
+    "posted_at": "2026-07-24T08:00:00+05:30",
+    "last_activity_at": "2026-07-25T10:00:00+05:30",
+    "engagement": {
+      "replies": 2,
+      "unique_participants": 2,
+      "photos": 0,
+      "has_attachments": false
+    },
+    "contact": {
+      "display_name": "Naveen Kumar",
+      "masked_email": "n****@contoso.com",
+      "teams_dm": true,
+      "posted_on_behalf_of": false,
+      "pii_sensitive": false
+    },
+    "extraction_confidence": 0.94,
+    "cross_posted": false,
+    "poc_note": "Tests inventory decrement inferred from conversation.",
+    "featured_score": 0.474
+  },
+  {
+    "listing_id": "lst-021",
+    "thread_id": "thr-021",
+    "source_message_ids": [
+      "msg-0049"
+    ],
+    "title": "Murder Mystery Evening — Sun 9 Aug, Jubilee Hills",
+    "intent": "announce",
+    "category": "community-events",
+    "subcategory": "social-event",
+    "price": {
+      "amount": 799,
+      "currency": "INR",
+      "unit": "per-person"
+    },
+    "attributes": {
+      "event_datetime": "2026-08-09T17:00:00+05:30",
+      "duration_hours": 3,
+      "venue": "Cafe Niloufer banquet, Jubilee Hills",
+      "team_size": "4-6",
+      "slots_total": 24,
+      "slots_taken": 9,
+      "inclusions": [
+        "snacks",
+        "beverages"
+      ]
+    },
+    "location": {
+      "area": "Jubilee Hills",
+      "city": "Hyderabad"
+    },
+    "expires_at": "2026-08-09T17:00:00+05:30",
+    "urgency": "normal",
+    "status": "open",
+    "posted_at": "2026-08-04T12:00:00+05:30",
+    "last_activity_at": "2026-08-04T12:00:00+05:30",
+    "engagement": {
+      "replies": 0,
+      "unique_participants": 1,
+      "photos": 0,
+      "has_attachments": false
+    },
+    "contact": {
+      "display_name": "Ishita Sharma",
+      "masked_email": "i****@contoso.com",
+      "teams_dm": true,
+      "posted_on_behalf_of": false,
+      "pii_sensitive": false
+    },
+    "extraction_confidence": 0.95,
+    "cross_posted": false,
+    "featured_score": 0.518
+  },
+  {
+    "listing_id": "lst-022",
+    "thread_id": "thr-022",
+    "source_message_ids": [
+      "msg-0050",
+      "msg-0051",
+      "msg-0052"
+    ],
+    "title": "A- blood needed — Kamineni Hospital LB Nagar",
+    "intent": "urgent-help",
+    "category": "community-help",
+    "subcategory": "blood-requirement",
+    "attributes": {
+      "blood_group": "A-",
+      "units": 2,
+      "hospital": "Kamineni Hospital, LB Nagar",
+      "needed_by": "2026-08-06T10:00:00+05:30"
+    },
+    "location": {
+      "area": "LB Nagar",
+      "city": "Hyderabad"
+    },
+    "urgency": "critical",
+    "status": "resolved",
+    "status_evidence": "Requester posted 'Both units arranged... closing this' at 2026-08-05T21:00",
+    "posted_at": "2026-08-05T16:30:00+05:30",
+    "last_activity_at": "2026-08-05T21:00:00+05:30",
+    "engagement": {
+      "replies": 2,
+      "unique_participants": 2,
+      "photos": 0,
+      "has_attachments": false
+    },
+    "contact": {
+      "display_name": "Manoj Pillai",
+      "masked_email": "m****@contoso.com",
+      "teams_dm": true,
+      "posted_on_behalf_of": false,
+      "pii_sensitive": false
+    },
+    "extraction_confidence": 0.97,
+    "cross_posted": false,
+    "poc_note": "Highest-priority surfacing rule — urgent help pins to the top and closes on resolution.",
+    "featured_score": 0.0
+  },
+  {
+    "listing_id": "lst-023",
+    "thread_id": "thr-023",
+    "source_message_ids": [
+      "msg-0053",
+      "msg-0054"
+    ],
+    "title": "Free — study lamp, bean bag, packing cartons",
+    "intent": "giveaway",
+    "category": "furniture-appliances",
+    "subcategory": "free-giveaway",
+    "price": {
+      "amount": 0,
+      "currency": "INR",
+      "unit": "free"
+    },
+    "attributes": {
+      "items": [
+        "study lamp",
+        "bean bag (needs refill)",
+        "8 packing cartons"
+      ],
+      "pickup_deadline": "2026-08-02"
+    },
+    "location": {
+      "area": "Gopanpally",
+      "city": "Hyderabad"
+    },
+    "urgency": "normal",
+    "status": "partially-claimed",
+    "status_evidence": "Cartons claimed at 2026-08-01T09:45",
+    "posted_at": "2026-08-01T09:00:00+05:30",
+    "last_activity_at": "2026-08-01T09:45:00+05:30",
+    "engagement": {
+      "replies": 1,
+      "unique_participants": 2,
+      "photos": 0,
+      "has_attachments": false
+    },
+    "contact": {
+      "display_name": "Yash Trivedi",
+      "masked_email": "y****@contoso.com",
+      "teams_dm": true,
+      "posted_on_behalf_of": false,
+      "pii_sensitive": false
+    },
+    "extraction_confidence": 0.91,
+    "cross_posted": false,
+    "featured_score": 0.476
+  },
+  {
+    "listing_id": "lst-024",
+    "thread_id": "thr-024",
+    "source_message_ids": [
+      "msg-0055",
+      "msg-0056",
+      "msg-0057"
+    ],
+    "title": "Coffee quality after Toastea machine upgrade",
+    "intent": "discuss",
+    "category": "non-listing",
+    "subcategory": "facilities-feedback",
+    "attributes": {},
+    "location": {},
+    "urgency": "normal",
+    "status": "not-a-listing",
+    "posted_at": "2026-07-26T11:00:00+05:30",
+    "last_activity_at": "2026-07-27T10:00:00+05:30",
+    "engagement": {
+      "replies": 2,
+      "unique_participants": 3,
+      "photos": 0,
+      "has_attachments": false
+    },
+    "contact": {
+      "display_name": "Rakesh Menon",
+      "masked_email": "r****@contoso.com",
+      "teams_dm": true,
+      "posted_on_behalf_of": false,
+      "pii_sensitive": false
+    },
+    "extraction_confidence": 0.96,
+    "cross_posted": false,
+    "poc_note": "Negative sample — must NOT become a marketplace listing. Routed to facilities feedback digest.",
+    "featured_score": 0.0
+  },
+  {
+    "listing_id": "lst-025",
+    "thread_id": "thr-025",
+    "source_message_ids": [
+      "msg-0058",
+      "msg-0059"
+    ],
+    "title": "AI resume-to-referral tool and LinkedIn Premium discount",
+    "intent": "question",
+    "category": "non-listing",
+    "subcategory": "workplace-query",
+    "attributes": {},
+    "location": {},
+    "urgency": "normal",
+    "status": "answered",
+    "posted_at": "2026-08-04T15:00:00+05:30",
+    "last_activity_at": "2026-08-04T16:20:00+05:30",
+    "engagement": {
+      "replies": 1,
+      "unique_participants": 2,
+      "photos": 0,
+      "has_attachments": false
+    },
+    "contact": {
+      "display_name": "Sakshi Jain",
+      "masked_email": "s****@contoso.com",
+      "teams_dm": true,
+      "posted_on_behalf_of": false,
+      "pii_sensitive": false
+    },
+    "extraction_confidence": 0.94,
+    "cross_posted": false,
+    "poc_note": "Negative sample — a question, not a listing. Feeds the FAQ/knowledge view instead.",
+    "featured_score": 0.358
+  },
+  {
+    "listing_id": "lst-026",
+    "thread_id": "thr-026",
+    "source_message_ids": [
+      "msg-0060"
+    ],
+    "title": "Skoda Kushaq 1.5 Style MT (2022) — repost",
+    "intent": "sell",
+    "category": "vehicles",
+    "subcategory": "car",
+    "price": {
+      "amount": 1400000,
+      "currency": "INR",
+      "unit": "total",
+      "negotiable": true
+    },
+    "attributes": {},
+    "location": {},
+    "urgency": "normal",
+    "status": "duplicate",
+    "posted_at": "2026-08-05T09:00:00+05:30",
+    "last_activity_at": "2026-08-05T09:00:00+05:30",
+    "engagement": {
+      "replies": 0,
+      "unique_participants": 1,
+      "photos": 0,
+      "has_attachments": false
+    },
+    "contact": {
+      "display_name": "Aarav Menon",
+      "masked_email": "a****@contoso.com",
+      "teams_dm": true,
+      "posted_on_behalf_of": false,
+      "pii_sensitive": false
+    },
+    "extraction_confidence": 0.98,
+    "is_duplicate_of": "lst-001",
+    "duplicate_signals": [
+      "same sender",
+      "same make/model/variant/year",
+      "same km_driven",
+      "explicit 'reposting' marker",
+      "price matches latest drop"
+    ],
+    "cross_posted": false,
+    "poc_note": "Dedupe case — must collapse into lst-001 while preserving the repost timestamp as fresh activity.",
+    "featured_score": 0.0
+  }
+]

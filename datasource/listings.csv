@@ -1,0 +1,27 @@
+listing_id,category,subcategory,intent,title,price,unit,location,status,posted_at,replies,photos,confidence,featured_score
+lst-001,vehicles,car,sell,Skoda Kushaq 1.5 Style MT (2022) — single owner,1400000,total,Nallagandla,negotiating,2026-07-28T09:12:00+05:30,4,2,0.96,0.763
+lst-002,vehicles,motorcycle,sell,Royal Enfield Classic 350 (2019) — 22k km,135000,total,Gachibowli,sold,2026-07-21T20:44:00+05:30,2,1,0.93,0.0
+lst-003,vehicles,car-lease-transfer,transfer,"Hyundai Creta SX(O) diesel AT — lease transfer, 24 months left",41200,per-month,Hyderabad,available,2026-08-01T13:30:00+05:30,2,0,0.91,0.588
+lst-004,vehicles,scooter,wanted,Wanted: used scooter under ₹55k for campus commute,55000,budget-max,Kondapur,open,2026-08-03T17:05:00+05:30,0,0,0.89,0.447
+lst-005,real-estate,flat-rent,rent-out,"2 BHK semi-furnished — Mantri Celestia, Gachibowli",42000,per-month,Mantri Celestia,available,2026-07-30T10:00:00+05:30,2,3,0.97,0.634
+lst-006,real-estate,flat-rent,rent-out,3 BHK fully furnished — PBEL City,46000,per-month,PBEL City,available,2026-07-25T19:30:00+05:30,1,2,0.95,0.63
+lst-007,real-estate,flatmate,rent-out,"Male flatmate wanted — semi-master room, 4BHK, Prestige High Fields",16500,per-month,Prestige High Fields,available,2026-08-05T14:20:00+05:30,0,0,0.94,0.534
+lst-008,real-estate,temporary-accommodation,rent-out,Short-stay private room near campus — daily or monthly,900,per-day,Kondapur,available,2026-08-04T08:45:00+05:30,0,0,0.9,0.516
+lst-009,real-estate,flat-resale,sell,"3 BHK resale — Magnum Heights, Nallagandla, 1600 sft",12800000,total,Magnum Heights,available,2026-07-18T12:00:00+05:30,2,1,0.95,0.481
+lst-010,furniture-appliances,move-out-bundle,sell,"Move-out sale — 9 items, Vertex Panache, Kokapet",78300,bundle-total,Vertex Panache,partially-sold,2026-07-27T21:15:00+05:30,2,3,0.92,0.551
+lst-011,multi,combined-post,multi,Combined post — move-out items + 2BHK for rent (Narsingi),,,,available,2026-08-02T16:40:00+05:30,0,0,0.78,0.267
+lst-012,electronics,mobile,sell,iPhone 15 Pro 256GB Natural Titanium — 94% battery,60000,total,Kondapur,reserved,2026-08-05T11:25:00+05:30,3,2,0.96,0.745
+lst-013,electronics,gaming,sell,PS5 Slim (digital) + 2 controllers + 4 games,42000,bundle-total,Miyapur,stale,2026-07-15T22:10:00+05:30,2,0,0.88,0.39
+lst-014,vouchers-tickets,hotel-voucher,sell,"2 x Amex Taj vouchers (₹10,000 each) at 30% off",7000,per-item,,partially-sold,2026-08-01T18:00:00+05:30,1,0,0.93,0.475
+lst-015,vouchers-tickets,movie-tickets,sell,"2 x The Odyssey tickets — ALLU Cinemas Kokapet, Sun 9 Aug",1100,bundle-total,Kokapet,available,2026-08-06T10:05:00+05:30,0,0,0.97,0.635
+lst-016,memberships-subscriptions,fitness,transfer,FitPass Pro annual membership transfer — 10 months left,11000,total,,available,2026-07-31T15:50:00+05:30,0,0,0.92,0.388
+lst-017,services,driving-school,recommendation-request,Driving school recommendations near Kondapur Junction,,,Kondapur,answered,2026-07-29T09:20:00+05:30,3,0,0.87,0.483
+lst-018,services,domestic-help,service-offer,"Cook available — Nallagandla / Tellapur, morning or evening slots",4000,per-month,Nallagandla / Tellapur,available,2026-08-03T07:30:00+05:30,0,0,0.89,0.501
+lst-019,carpool-travel,day-trip,wanted,Transport to Srisailam from Nallagandla — day trip,,,,matched,2026-08-02T20:00:00+05:30,2,0,0.9,0.462
+lst-020,carpool-travel,daily-commute,service-offer,"Daily carpool — Bachupally to campus, 1 seat left",3500,per-month,Bachupally,partially-filled,2026-07-24T08:00:00+05:30,2,0,0.94,0.474
+lst-021,community-events,social-event,announce,"Murder Mystery Evening — Sun 9 Aug, Jubilee Hills",799,per-person,Jubilee Hills,open,2026-08-04T12:00:00+05:30,0,0,0.95,0.518
+lst-022,community-help,blood-requirement,urgent-help,A- blood needed — Kamineni Hospital LB Nagar,,,LB Nagar,resolved,2026-08-05T16:30:00+05:30,2,0,0.97,0.0
+lst-023,furniture-appliances,free-giveaway,giveaway,"Free — study lamp, bean bag, packing cartons",0,free,Gopanpally,partially-claimed,2026-08-01T09:00:00+05:30,1,0,0.91,0.476
+lst-024,non-listing,facilities-feedback,discuss,Coffee quality after Toastea machine upgrade,,,,not-a-listing,2026-07-26T11:00:00+05:30,2,0,0.96,0.0
+lst-025,non-listing,workplace-query,question,AI resume-to-referral tool and LinkedIn Premium discount,,,,answered,2026-08-04T15:00:00+05:30,1,0,0.94,0.358
+lst-026,vehicles,car,sell,Skoda Kushaq 1.5 Style MT (2022) — repost,1400000,total,,duplicate,2026-08-05T09:00:00+05:30,0,0,0.98,0.0

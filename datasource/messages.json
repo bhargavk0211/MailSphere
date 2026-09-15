@@ -1,0 +1,1719 @@
+[
+  {
+    "id": "msg-0001",
+    "thread_id": "thr-001",
+    "conversation_index": 0,
+    "is_root": true,
+    "parent_id": null,
+    "source": {
+      "type": "dl-email",
+      "dl": "hydchat@contoso.com",
+      "cross_posted_to": []
+    },
+    "subject": "Skoda Kushaq 1.5 Style MT for Sale",
+    "from": {
+      "name": "Aarav Menon",
+      "email": "aarav.menon@contoso.com",
+      "alias": "aaravmen"
+    },
+    "sent_datetime": "2026-07-28T09:12:00+05:30",
+    "importance": "normal",
+    "body_preview": "Hi folks, I'm looking to sell my Skoda Kushaq 1.5 Style Variant (Manual Transmission). Model: 2022, Single owner, 38,500 kms, Petrol, Candy White. All service records available at ",
+    "body": "Hi folks, I'm looking to sell my Skoda Kushaq 1.5 Style Variant (Manual Transmission). Model: 2022, Single owner, 38,500 kms, Petrol, Candy White. All service records available at Skoda Kompally. Insurance valid till Mar 2027. Expected price: 14.5L (slightly negotiable). Car is at Nallagandla, test drive possible on weekends. Ping me on Teams.",
+    "has_attachments": true,
+    "attachments": [
+      {
+        "name": "kushaq-front.jpg",
+        "content_type": "image/jpeg",
+        "size_bytes": 475590
+      },
+      {
+        "name": "kushaq-interior.jpg",
+        "content_type": "image/jpeg",
+        "size_bytes": 227706
+      },
+      {
+        "name": "kushaq-service-history.pdf",
+        "content_type": "application/pdf",
+        "size_bytes": 185741
+      }
+    ],
+    "reactions": {
+      "like": 3
+    }
+  },
+  {
+    "id": "msg-0002",
+    "thread_id": "thr-001",
+    "conversation_index": 1,
+    "is_root": false,
+    "parent_id": "msg-0001",
+    "source": {
+      "type": "dl-email",
+      "dl": "hydchat@contoso.com",
+      "cross_posted_to": []
+    },
+    "subject": "Re: Skoda Kushaq 1.5 Style MT for Sale",
+    "from": {
+      "name": "Divya Rangan",
+      "email": "divya.rangan@contoso.com",
+      "alias": "divyaran"
+    },
+    "sent_datetime": "2026-07-28T11:40:00+05:30",
+    "importance": "normal",
+    "body_preview": "Is it BS6? And any accident history?",
+    "body": "Is it BS6? And any accident history?",
+    "has_attachments": false,
+    "attachments": [],
+    "reactions": {
+      "like": 1
+    }
+  },
+  {
+    "id": "msg-0003",
+    "thread_id": "thr-001",
+    "conversation_index": 2,
+    "is_root": false,
+    "parent_id": "msg-0002",
+    "source": {
+      "type": "dl-email",
+      "dl": "hydchat@contoso.com",
+      "cross_posted_to": []
+    },
+    "subject": "Re: Skoda Kushaq 1.5 Style MT for Sale",
+    "from": {
+      "name": "Aarav Menon",
+      "email": "aarav.menon@contoso.com",
+      "alias": "aaravmen"
+    },
+    "sent_datetime": "2026-07-28T12:05:00+05:30",
+    "importance": "normal",
+    "body_preview": "Yes BS6 phase 2. No accidents, only one minor bumper scratch repainted last year.",
+    "body": "Yes BS6 phase 2. No accidents, only one minor bumper scratch repainted last year.",
+    "has_attachments": false,
+    "attachments": [],
+    "reactions": {
+      "like": 4
+    }
+  },
+  {
+    "id": "msg-0004",
+    "thread_id": "thr-001",
+    "conversation_index": 3,
+    "is_root": false,
+    "parent_id": "msg-0003",
+    "source": {
+      "type": "dl-email",
+      "dl": "hydchat@contoso.com",
+      "cross_posted_to": []
+    },
+    "subject": "Re: Skoda Kushaq 1.5 Style MT for Sale",
+    "from": {
+      "name": "Rahul Iyer",
+      "email": "rahul.iyer@contoso.com",
+      "alias": "rahuliye"
+    },
+    "sent_datetime": "2026-07-30T18:22:00+05:30",
+    "importance": "normal",
+    "body_preview": "Interested. Would you take 13.8L? Can do full payment this week.",
+    "body": "Interested. Would you take 13.8L? Can do full payment this week.",
+    "has_attachments": false,
+    "attachments": [],
+    "reactions": {
+      "like": 2
+    }
+  },
+  {
+    "id": "msg-0005",
+    "thread_id": "thr-001",
+    "conversation_index": 4,
+    "is_root": false,
+    "parent_id": "msg-0004",
+    "source": {
+      "type": "dl-email",
+      "dl": "hydchat@contoso.com",
+      "cross_posted_to": []
+    },
+    "subject": "Re: Skoda Kushaq 1.5 Style MT for Sale",
+    "from": {
+      "name": "Aarav Menon",
+      "email": "aarav.menon@contoso.com",
+      "alias": "aaravmen"
+    },
+    "sent_datetime": "2026-08-02T10:15:00+05:30",
+    "importance": "normal",
+    "body_preview": "Update: dropping the price to 14L. Genuine buyers only please.",
+    "body": "Update: dropping the price to 14L. Genuine buyers only please.",
+    "has_attachments": false,
+    "attachments": [],
+    "reactions": {
+      "like": 0
+    }
+  },
+  {
+    "id": "msg-0006",
+    "thread_id": "thr-002",
+    "conversation_index": 0,
+    "is_root": true,
+    "parent_id": null,
+    "source": {
+      "type": "dl-email",
+      "dl": "hydchat@contoso.com",
+      "cross_posted_to": []
+    },
+    "subject": "Bike for sale - Royal Enfield Classic 350",
+    "from": {
+      "name": "Karthik Sundar",
+      "email": "karthik.sundar@contoso.com",
+      "alias": "karthiks"
+    },
+    "sent_datetime": "2026-07-21T20:44:00+05:30",
+    "importance": "normal",
+    "body_preview": "re classic 350 2019 model, 22k kms run, stealth black, new tyres n battery, papers clear till 2028. 1.35L fixed. gachibowli. dm if interested",
+    "body": "re classic 350 2019 model, 22k kms run, stealth black, new tyres n battery, papers clear till 2028. 1.35L fixed. gachibowli. dm if interested",
+    "has_attachments": true,
+    "attachments": [
+      {
+        "name": "re-classic.jpg",
+        "content_type": "image/jpeg",
+        "size_bytes": 251389
+      }
+    ],
+    "reactions": {
+      "like": 3
+    }
+  },
+  {
+    "id": "msg-0007",
+    "thread_id": "thr-002",
+    "conversation_index": 1,
+    "is_root": false,
+    "parent_id": "msg-0006",
+    "source": {
+      "type": "dl-email",
+      "dl": "hydchat@contoso.com",
+      "cross_posted_to": []
+    },
+    "subject": "Re: Bike for sale - Royal Enfield Classic 350",
+    "from": {
+      "name": "Nisha Verma",
+      "email": "nisha.verma@contoso.com",
+      "alias": "nishaver"
+    },
+    "sent_datetime": "2026-07-22T08:03:00+05:30",
+    "importance": "normal",
+    "body_preview": "Still available?",
+    "body": "Still available?",
+    "has_attachments": false,
+    "attachments": [],
+    "reactions": {
+      "like": 1
+    }
+  },
+  {
+    "id": "msg-0008",
+    "thread_id": "thr-002",
+    "conversation_index": 2,
+    "is_root": false,
+    "parent_id": "msg-0007",
+    "source": {
+      "type": "dl-email",
+      "dl": "hydchat@contoso.com",
+      "cross_posted_to": []
+    },
+    "subject": "Re: Bike for sale - Royal Enfield Classic 350",
+    "from": {
+      "name": "Karthik Sundar",
+      "email": "karthik.sundar@contoso.com",
+      "alias": "karthiks"
+    },
+    "sent_datetime": "2026-07-24T19:10:00+05:30",
+    "importance": "normal",
+    "body_preview": "Sold. Thanks everyone for the interest.",
+    "body": "Sold. Thanks everyone for the interest.",
+    "has_attachments": false,
+    "attachments": [],
+    "reactions": {
+      "like": 4
+    }
+  },
+  {
+    "id": "msg-0009",
+    "thread_id": "thr-003",
+    "conversation_index": 0,
+    "is_root": true,
+    "parent_id": null,
+    "source": {
+      "type": "dl-email",
+      "dl": "hydchat@contoso.com",
+      "cross_posted_to": []
+    },
+    "subject": "Car lease transfer - Hyundai Creta SX (24 months remaining)",
+    "from": {
+      "name": "Sneha Pillai",
+      "email": "sneha.pillai@contoso.com",
+      "alias": "snehapil"
+    },
+    "sent_datetime": "2026-08-01T13:30:00+05:30",
+    "importance": "normal",
+    "body_preview": "Hi All, I am relocating to Redmond and looking to transfer my company car lease. Hyundai Creta SX (O) Diesel AT, 2024 registration, 19,000 kms. Remaining lease tenure: 24 months. M",
+    "body": "Hi All, I am relocating to Redmond and looking to transfer my company car lease. Hyundai Creta SX (O) Diesel AT, 2024 registration, 19,000 kms. Remaining lease tenure: 24 months. Monthly EMI: Rs 41,200 (pre-tax salary deduction). Residual/foreclosure value at end of term: approx 6.2L. Transfer process is via the ALD portal, takes about 3 weeks. Car is in excellent condition, only highway use. Ping for details.",
+    "has_attachments": false,
+    "attachments": [],
+    "reactions": {
+      "like": 2
+    }
+  },
+  {
+    "id": "msg-0010",
+    "thread_id": "thr-003",
+    "conversation_index": 1,
+    "is_root": false,
+    "parent_id": "msg-0009",
+    "source": {
+      "type": "dl-email",
+      "dl": "hydchat@contoso.com",
+      "cross_posted_to": []
+    },
+    "subject": "Re: Car lease transfer - Hyundai Creta SX (24 months remaining)",
+    "from": {
+      "name": "Vikram Chowdary",
+      "email": "vikram.chowdary@contoso.com",
+      "alias": "vikramch"
+    },
+    "sent_datetime": "2026-08-02T09:11:00+05:30",
+    "importance": "normal",
+    "body_preview": "Does the transfer need manager approval on the new employee side?",
+    "body": "Does the transfer need manager approval on the new employee side?",
+    "has_attachments": false,
+    "attachments": [],
+    "reactions": {
+      "like": 0
+    }
+  },
+  {
+    "id": "msg-0011",
+    "thread_id": "thr-003",
+    "conversation_index": 2,
+    "is_root": false,
+    "parent_id": "msg-0010",
+    "source": {
+      "type": "dl-email",
+      "dl": "hydchat@contoso.com",
+      "cross_posted_to": []
+    },
+    "subject": "Re: Car lease transfer - Hyundai Creta SX (24 months remaining)",
+    "from": {
+      "name": "Sneha Pillai",
+      "email": "sneha.pillai@contoso.com",
+      "alias": "snehapil"
+    },
+    "sent_datetime": "2026-08-02T09:50:00+05:30",
+    "importance": "normal",
+    "body_preview": "Only HR + lease vendor approval. No manager sign-off needed as long as you're eligible for the car scheme.",
+    "body": "Only HR + lease vendor approval. No manager sign-off needed as long as you're eligible for the car scheme.",
+    "has_attachments": false,
+    "attachments": [],
+    "reactions": {
+      "like": 3
+    }
+  },
+  {
+    "id": "msg-0012",
+    "thread_id": "thr-004",
+    "conversation_index": 0,
+    "is_root": true,
+    "parent_id": null,
+    "source": {
+      "type": "dl-email",
+      "dl": "hydchat@contoso.com",
+      "cross_posted_to": []
+    },
+    "subject": "WTB: Second hand scooter for daily campus commute",
+    "from": {
+      "name": "Meera Joshi",
+      "email": "meera.joshi@contoso.com",
+      "alias": "meerajos"
+    },
+    "sent_datetime": "2026-08-03T17:05:00+05:30",
+    "importance": "normal",
+    "body_preview": "Hi, looking to buy a used scooter (Activa / Jupiter / Access) for commuting between Kondapur and campus. Budget up to 55k. Preferably 2021 or newer with valid insurance. Please DM ",
+    "body": "Hi, looking to buy a used scooter (Activa / Jupiter / Access) for commuting between Kondapur and campus. Budget up to 55k. Preferably 2021 or newer with valid insurance. Please DM if you or someone you know is selling.",
+    "has_attachments": false,
+    "attachments": [],
+    "reactions": {
+      "like": 1
+    }
+  },
+  {
+    "id": "msg-0013",
+    "thread_id": "thr-005",
+    "conversation_index": 0,
+    "is_root": true,
+    "parent_id": null,
+    "source": {
+      "type": "dl-email",
+      "dl": "hydchat@contoso.com",
+      "cross_posted_to": []
+    },
+    "subject": "2 BHK semi-furnished flat for rent",
+    "from": {
+      "name": "Joseph Abraham",
+      "email": "joseph.abraham@contoso.com",
+      "alias": "josephab"
+    },
+    "sent_datetime": "2026-07-30T10:00:00+05:30",
+    "importance": "normal",
+    "body_preview": "2 BHK semi-furnished flat will be available for rent from 15th Aug. Location: Block B, 19th Floor (B-1905), Mantri Celestia, Gachibowli Flat Details: 2 Bedrooms | 1 Hall | 1 Kitche",
+    "body": "2 BHK semi-furnished flat will be available for rent from 15th Aug.\nLocation: Block B, 19th Floor (B-1905), Mantri Celestia, Gachibowli\nFlat Details: 2 Bedrooms | 1 Hall | 1 Kitchen | 2 Balconies, 1250 sft, east facing\nRent: Rs 42,000/month + Rs 3,500 maintenance\nDeposit: 3 months\nIncludes: modular kitchen, wardrobes, ACs in both bedrooms, geysers\nAmenities: gym, pool, kids play area, 24x7 security\nPreference: families / working professionals. No brokers please.",
+    "has_attachments": true,
+    "attachments": [
+      {
+        "name": "celestia-hall.jpg",
+        "content_type": "image/jpeg",
+        "size_bytes": 123991
+      },
+      {
+        "name": "celestia-bedroom.jpg",
+        "content_type": "image/jpeg",
+        "size_bytes": 237845
+      },
+      {
+        "name": "celestia-balcony.jpg",
+        "content_type": "image/jpeg",
+        "size_bytes": 141802
+      }
+    ],
+    "reactions": {
+      "like": 4
+    }
+  },
+  {
+    "id": "msg-0014",
+    "thread_id": "thr-005",
+    "conversation_index": 1,
+    "is_root": false,
+    "parent_id": "msg-0013",
+    "source": {
+      "type": "dl-email",
+      "dl": "hydchat@contoso.com",
+      "cross_posted_to": []
+    },
+    "subject": "Re: 2 BHK semi-furnished flat for rent",
+    "from": {
+      "name": "Ananya Bose",
+      "email": "ananya.bose@contoso.com",
+      "alias": "ananyabo"
+    },
+    "sent_datetime": "2026-07-31T09:15:00+05:30",
+    "importance": "normal",
+    "body_preview": "Is it available for a bachelor group of 3?",
+    "body": "Is it available for a bachelor group of 3?",
+    "has_attachments": false,
+    "attachments": [],
+    "reactions": {
+      "like": 2
+    }
+  },
+  {
+    "id": "msg-0015",
+    "thread_id": "thr-005",
+    "conversation_index": 2,
+    "is_root": false,
+    "parent_id": "msg-0014",
+    "source": {
+      "type": "dl-email",
+      "dl": "hydchat@contoso.com",
+      "cross_posted_to": []
+    },
+    "subject": "Re: 2 BHK semi-furnished flat for rent",
+    "from": {
+      "name": "Joseph Abraham",
+      "email": "joseph.abraham@contoso.com",
+      "alias": "josephab"
+    },
+    "sent_datetime": "2026-07-31T09:40:00+05:30",
+    "importance": "normal",
+    "body_preview": "Society allows only families or working professionals with company ID. 3 working professionals is fine.",
+    "body": "Society allows only families or working professionals with company ID. 3 working professionals is fine.",
+    "has_attachments": false,
+    "attachments": [],
+    "reactions": {
+      "like": 0
+    }
+  },
+  {
+    "id": "msg-0016",
+    "thread_id": "thr-006",
+    "conversation_index": 0,
+    "is_root": true,
+    "parent_id": null,
+    "source": {
+      "type": "dl-email",
+      "dl": "hydchat@contoso.com",
+      "cross_posted_to": []
+    },
+    "subject": "3 BHK Flat for Rent - PBEL City, Hyderabad",
+    "from": {
+      "name": "Sridhar Reddy",
+      "email": "sridhar.reddy@contoso.com",
+      "alias": "sridharr"
+    },
+    "sent_datetime": "2026-07-25T19:30:00+05:30",
+    "importance": "normal",
+    "body_preview": "A bright and spacious 3 BHK east-facing corner apartment in PBEL City, perfect for families. Highlights: Flat No. J-1406, 14th floor, 1685 sft, fully furnished Rent: 48,000/- negot",
+    "body": "A bright and spacious 3 BHK east-facing corner apartment in PBEL City, perfect for families.\nHighlights: Flat No. J-1406, 14th floor, 1685 sft, fully furnished\nRent: 48,000/- negotiable for the right tenant | Maintenance included\nDeposit: 2 lakhs\nAvailable: immediately\nTownship amenities: clubhouse, 3 pools, tennis court, school inside campus, shuttle to ORR",
+    "has_attachments": true,
+    "attachments": [
+      {
+        "name": "pbel-1.jpg",
+        "content_type": "image/jpeg",
+        "size_bytes": 149858
+      },
+      {
+        "name": "pbel-2.jpg",
+        "content_type": "image/jpeg",
+        "size_bytes": 353964
+      }
+    ],
+    "reactions": {
+      "like": 3
+    }
+  },
+  {
+    "id": "msg-0017",
+    "thread_id": "thr-006",
+    "conversation_index": 1,
+    "is_root": false,
+    "parent_id": "msg-0016",
+    "source": {
+      "type": "dl-email",
+      "dl": "hydchat@contoso.com",
+      "cross_posted_to": []
+    },
+    "subject": "Re: 3 BHK Flat for Rent - PBEL City, Hyderabad",
+    "from": {
+      "name": "Sridhar Reddy",
+      "email": "sridhar.reddy@contoso.com",
+      "alias": "sridharr"
+    },
+    "sent_datetime": "2026-08-04T11:00:00+05:30",
+    "importance": "normal",
+    "body_preview": "Bumping this up. Still available, can offer 46k for a 2-year lock-in.",
+    "body": "Bumping this up. Still available, can offer 46k for a 2-year lock-in.",
+    "has_attachments": false,
+    "attachments": [],
+    "reactions": {
+      "like": 1
+    }
+  },
+  {
+    "id": "msg-0018",
+    "thread_id": "thr-007",
+    "conversation_index": 0,
+    "is_root": true,
+    "parent_id": null,
+    "source": {
+      "type": "dl-email",
+      "dl": "hydchat@contoso.com",
+      "cross_posted_to": []
+    },
+    "subject": "Semi-master bedroom in a 4BHK available in Prestige High Fields from 1st September",
+    "from": {
+      "name": "Tanmay Ghosh",
+      "email": "tanmay.ghosh@contoso.com",
+      "alias": "tanmaygh"
+    },
+    "sent_datetime": "2026-08-05T14:20:00+05:30",
+    "importance": "normal",
+    "body_preview": "(posting on behalf of a friend) Hi, We are looking for a male flatmate replacement for the semi-master bedroom in a semi-furnished 4BHK in Prestige High Fields, Gachibowli. Flat Fe",
+    "body": "(posting on behalf of a friend)\nHi, We are looking for a male flatmate replacement for the semi-master bedroom in a semi-furnished 4BHK in Prestige High Fields, Gachibowli.\nFlat Features: 4BHK, 2150 sft, 5th floor, semi-furnished with beds, wardrobes and ACs in all rooms.\nYour share: Rs 16,500/month + Rs 1,200 maintenance share + utilities split 4 ways.\nDeposit: 1 month.\nCurrent flatmates: 3 working professionals (2 from MS, 1 from Amazon).\nAvailable from 1st September. Veg/non-veg both fine. No smoking inside the flat.",
+    "has_attachments": false,
+    "attachments": [],
+    "reactions": {
+      "like": 4
+    }
+  },
+  {
+    "id": "msg-0019",
+    "thread_id": "thr-008",
+    "conversation_index": 0,
+    "is_root": true,
+    "parent_id": null,
+    "source": {
+      "type": "dl-email",
+      "dl": "hydchat@contoso.com",
+      "cross_posted_to": []
+    },
+    "subject": "Temporary accommodation available near MS Campus",
+    "from": {
+      "name": "Farhan Qureshi",
+      "email": "farhan.qureshi@contoso.com",
+      "alias": "farhanqu"
+    },
+    "sent_datetime": "2026-08-04T08:45:00+05:30",
+    "importance": "normal",
+    "body_preview": "Hi all, Temporary short-term accommodation in a 3-BHK (private room with attached washroom) available starting immediately, dates flexible. 10 min walk from campus gate 2, Kondapur",
+    "body": "Hi all, Temporary short-term accommodation in a 3-BHK (private room with attached washroom) available starting immediately, dates flexible. 10 min walk from campus gate 2, Kondapur. Rs 900/day or 22k for the month, includes wifi and housekeeping twice a week. Ideal for folks relocating or on a short assignment. Ping on Teams for more details.",
+    "has_attachments": false,
+    "attachments": [],
+    "reactions": {
+      "like": 2
+    }
+  },
+  {
+    "id": "msg-0020",
+    "thread_id": "thr-009",
+    "conversation_index": 0,
+    "is_root": true,
+    "parent_id": null,
+    "source": {
+      "type": "dl-email",
+      "dl": "hydchat@contoso.com",
+      "cross_posted_to": []
+    },
+    "subject": "3BHK apartment for SALE at Nallagandla (Magnum Heights)",
+    "from": {
+      "name": "Lakshmi Narayan",
+      "email": "lakshmi.narayan@contoso.com",
+      "alias": "lakshmin"
+    },
+    "sent_datetime": "2026-07-18T12:00:00+05:30",
+    "importance": "normal",
+    "body_preview": "Selling my 3BHK (1600 sft) at Magnum Heights, Nallagandla, opposite Aparna Sarovar. West facing, 9th floor, 2 covered car parks, 7 year old building, gated with 200+ flats. Asking ",
+    "body": "Selling my 3BHK (1600 sft) at Magnum Heights, Nallagandla, opposite Aparna Sarovar. West facing, 9th floor, 2 covered car parks, 7 year old building, gated with 200+ flats. Asking 1.28 Cr, slightly negotiable. Loan available from all major banks, clear title, OC received. Site visits on Saturdays. Serious buyers only, no brokers.",
+    "has_attachments": true,
+    "attachments": [
+      {
+        "name": "magnum-living.jpg",
+        "content_type": "image/jpeg",
+        "size_bytes": 402384
+      },
+      {
+        "name": "magnum-floorplan.pdf",
+        "content_type": "application/pdf",
+        "size_bytes": 340474
+      }
+    ],
+    "reactions": {
+      "like": 0
+    }
+  },
+  {
+    "id": "msg-0021",
+    "thread_id": "thr-009",
+    "conversation_index": 1,
+    "is_root": false,
+    "parent_id": "msg-0020",
+    "source": {
+      "type": "dl-email",
+      "dl": "hydchat@contoso.com",
+      "cross_posted_to": []
+    },
+    "subject": "Re: 3BHK apartment for SALE at Nallagandla (Magnum Heights)",
+    "from": {
+      "name": "Prakash Menon",
+      "email": "prakash.menon@contoso.com",
+      "alias": "prakashm"
+    },
+    "sent_datetime": "2026-07-20T15:30:00+05:30",
+    "importance": "normal",
+    "body_preview": "What's the per sft rate you are expecting? And is the parking in the basement or stilt?",
+    "body": "What's the per sft rate you are expecting? And is the parking in the basement or stilt?",
+    "has_attachments": false,
+    "attachments": [],
+    "reactions": {
+      "like": 3
+    }
+  },
+  {
+    "id": "msg-0022",
+    "thread_id": "thr-009",
+    "conversation_index": 2,
+    "is_root": false,
+    "parent_id": "msg-0021",
+    "source": {
+      "type": "dl-email",
+      "dl": "hydchat@contoso.com",
+      "cross_posted_to": []
+    },
+    "subject": "Re: 3BHK apartment for SALE at Nallagandla (Magnum Heights)",
+    "from": {
+      "name": "Lakshmi Narayan",
+      "email": "lakshmi.narayan@contoso.com",
+      "alias": "lakshmin"
+    },
+    "sent_datetime": "2026-07-20T16:10:00+05:30",
+    "importance": "normal",
+    "body_preview": "Works out to about 8,000 per sft. Both parks are basement level 1, side by side.",
+    "body": "Works out to about 8,000 per sft. Both parks are basement level 1, side by side.",
+    "has_attachments": false,
+    "attachments": [],
+    "reactions": {
+      "like": 1
+    }
+  },
+  {
+    "id": "msg-0023",
+    "thread_id": "thr-010",
+    "conversation_index": 0,
+    "is_root": true,
+    "parent_id": null,
+    "source": {
+      "type": "dl-email",
+      "dl": "hydchat@contoso.com",
+      "cross_posted_to": []
+    },
+    "subject": "Move Out SALE",
+    "from": {
+      "name": "Ritu Malhotra",
+      "email": "ritu.malhotra@contoso.com",
+      "alias": "ritumalh"
+    },
+    "sent_datetime": "2026-07-27T21:15:00+05:30",
+    "importance": "normal",
+    "body_preview": "Hi, Following items are up for SALE as part of moving out. All items are available immediately, pickup from Kokapet (Vertex Panache). 1. Godrej 3-door wardrobe, 2 yrs old - Rs 8,00",
+    "body": "Hi, Following items are up for SALE as part of moving out. All items are available immediately, pickup from Kokapet (Vertex Panache).\n1. Godrej 3-door wardrobe, 2 yrs old - Rs 8,000\n2. Queen size bed with Sleepwell mattress - Rs 12,000\n3. LG 6.5kg front load washing machine (2023) - Rs 14,000\n4. Voltas 1.5T 3-star split AC with stabilizer - Rs 16,500\n5. Study table + ergonomic chair - Rs 4,500\n6. Samsung 43\" 4K smart TV with wall mount - Rs 18,000\n7. Prestige induction cooktop + cookware set - Rs 1,800\n8. Water purifier (Aquaguard RO) - Rs 3,500\n9. Assorted plants and pots - free to a good home\nBulk buyers preferred. Everything must go by 20th August.",
+    "has_attachments": true,
+    "attachments": [
+      {
+        "name": "moveout-1.jpg",
+        "content_type": "image/jpeg",
+        "size_bytes": 309944
+      },
+      {
+        "name": "moveout-2.jpg",
+        "content_type": "image/jpeg",
+        "size_bytes": 124048
+      },
+      {
+        "name": "moveout-3.jpg",
+        "content_type": "image/jpeg",
+        "size_bytes": 390227
+      }
+    ],
+    "reactions": {
+      "like": 4
+    }
+  },
+  {
+    "id": "msg-0024",
+    "thread_id": "thr-010",
+    "conversation_index": 1,
+    "is_root": false,
+    "parent_id": "msg-0023",
+    "source": {
+      "type": "dl-email",
+      "dl": "hydchat@contoso.com",
+      "cross_posted_to": []
+    },
+    "subject": "Re: Move Out SALE",
+    "from": {
+      "name": "Gaurav Sethi",
+      "email": "gaurav.sethi@contoso.com",
+      "alias": "gauravse"
+    },
+    "sent_datetime": "2026-07-28T10:20:00+05:30",
+    "importance": "normal",
+    "body_preview": "Interested in the washing machine and the AC. Are they still there?",
+    "body": "Interested in the washing machine and the AC. Are they still there?",
+    "has_attachments": false,
+    "attachments": [],
+    "reactions": {
+      "like": 2
+    }
+  },
+  {
+    "id": "msg-0025",
+    "thread_id": "thr-010",
+    "conversation_index": 2,
+    "is_root": false,
+    "parent_id": "msg-0024",
+    "source": {
+      "type": "dl-email",
+      "dl": "hydchat@contoso.com",
+      "cross_posted_to": []
+    },
+    "subject": "Re: Move Out SALE",
+    "from": {
+      "name": "Ritu Malhotra",
+      "email": "ritu.malhotra@contoso.com",
+      "alias": "ritumalh"
+    },
+    "sent_datetime": "2026-07-29T19:00:00+05:30",
+    "importance": "normal",
+    "body_preview": "AC is sold. Washing machine still available. TV also sold.",
+    "body": "AC is sold. Washing machine still available. TV also sold.",
+    "has_attachments": false,
+    "attachments": [],
+    "reactions": {
+      "like": 0
+    }
+  },
+  {
+    "id": "msg-0026",
+    "thread_id": "thr-011",
+    "conversation_index": 0,
+    "is_root": true,
+    "parent_id": null,
+    "source": {
+      "type": "dl-email",
+      "dl": "hydchat@contoso.com",
+      "cross_posted_to": [
+        "blrchat@contoso.com"
+      ]
+    },
+    "subject": "[Move Out Sale] / [2 BHK for rent with one time setup cost]",
+    "from": {
+      "name": "Deepak Rao",
+      "email": "deepak.rao@contoso.com",
+      "alias": "deepakra"
+    },
+    "sent_datetime": "2026-08-02T16:40:00+05:30",
+    "importance": "normal",
+    "body_preview": "Two things in one mail, sorry for the spam. (1) Moving out end of August — selling my double door fridge (Samsung 253L, 3 yrs) for 11k and a 4-seater dining table for 6k. Pickup fr",
+    "body": "Two things in one mail, sorry for the spam.\n(1) Moving out end of August — selling my double door fridge (Samsung 253L, 3 yrs) for 11k and a 4-seater dining table for 6k. Pickup from Manikonda.\n(2) My 2BHK at My Home Avatar, Narsingi is available for rent from 1st Sep, 32k/month + 2 months deposit. Whoever takes the flat can have the furniture at a one-time setup cost of 15k for both items together.",
+    "has_attachments": false,
+    "attachments": [],
+    "reactions": {
+      "like": 3
+    }
+  },
+  {
+    "id": "msg-0027",
+    "thread_id": "thr-012",
+    "conversation_index": 0,
+    "is_root": true,
+    "parent_id": null,
+    "source": {
+      "type": "dl-email",
+      "dl": "hydchat@contoso.com",
+      "cross_posted_to": []
+    },
+    "subject": "Selling iPhone 15 Pro 256GB - excellent condition",
+    "from": {
+      "name": "Aditi Kulkarni",
+      "email": "aditi.kulkarni@contoso.com",
+      "alias": "aditikul"
+    },
+    "sent_datetime": "2026-08-05T11:25:00+05:30",
+    "importance": "normal",
+    "body_preview": "Selling iPhone 15 Pro, 256GB, Natural Titanium. Bought Nov 2024, battery health 94%. Box, original cable and 2 unused cases included. Screen guard on since day 1, no scratches. Rs ",
+    "body": "Selling iPhone 15 Pro, 256GB, Natural Titanium. Bought Nov 2024, battery health 94%. Box, original cable and 2 unused cases included. Screen guard on since day 1, no scratches. Rs 62,000. Upgrading to the 17. Kondapur, can meet on campus.",
+    "has_attachments": true,
+    "attachments": [
+      {
+        "name": "iphone15-1.jpg",
+        "content_type": "image/jpeg",
+        "size_bytes": 193652
+      },
+      {
+        "name": "iphone15-2.jpg",
+        "content_type": "image/jpeg",
+        "size_bytes": 238328
+      }
+    ],
+    "reactions": {
+      "like": 1
+    }
+  },
+  {
+    "id": "msg-0028",
+    "thread_id": "thr-012",
+    "conversation_index": 1,
+    "is_root": false,
+    "parent_id": "msg-0027",
+    "source": {
+      "type": "dl-email",
+      "dl": "hydchat@contoso.com",
+      "cross_posted_to": []
+    },
+    "subject": "Re: Selling iPhone 15 Pro 256GB - excellent condition",
+    "from": {
+      "name": "Shreyas Nair",
+      "email": "shreyas.nair@contoso.com",
+      "alias": "shreyasn"
+    },
+    "sent_datetime": "2026-08-05T12:02:00+05:30",
+    "importance": "normal",
+    "body_preview": "58k?",
+    "body": "58k?",
+    "has_attachments": false,
+    "attachments": [],
+    "reactions": {
+      "like": 4
+    }
+  },
+  {
+    "id": "msg-0029",
+    "thread_id": "thr-012",
+    "conversation_index": 2,
+    "is_root": false,
+    "parent_id": "msg-0028",
+    "source": {
+      "type": "dl-email",
+      "dl": "hydchat@contoso.com",
+      "cross_posted_to": []
+    },
+    "subject": "Re: Selling iPhone 15 Pro 256GB - excellent condition",
+    "from": {
+      "name": "Aditi Kulkarni",
+      "email": "aditi.kulkarni@contoso.com",
+      "alias": "aditikul"
+    },
+    "sent_datetime": "2026-08-05T12:30:00+05:30",
+    "importance": "normal",
+    "body_preview": "60k and it's yours, that's my last price.",
+    "body": "60k and it's yours, that's my last price.",
+    "has_attachments": false,
+    "attachments": [],
+    "reactions": {
+      "like": 2
+    }
+  },
+  {
+    "id": "msg-0030",
+    "thread_id": "thr-012",
+    "conversation_index": 3,
+    "is_root": false,
+    "parent_id": "msg-0029",
+    "source": {
+      "type": "dl-email",
+      "dl": "hydchat@contoso.com",
+      "cross_posted_to": []
+    },
+    "subject": "Re: Selling iPhone 15 Pro 256GB - excellent condition",
+    "from": {
+      "name": "Shreyas Nair",
+      "email": "shreyas.nair@contoso.com",
+      "alias": "shreyasn"
+    },
+    "sent_datetime": "2026-08-05T12:35:00+05:30",
+    "importance": "normal",
+    "body_preview": "Done, will collect tomorrow from campus.",
+    "body": "Done, will collect tomorrow from campus.",
+    "has_attachments": false,
+    "attachments": [],
+    "reactions": {
+      "like": 0
+    }
+  },
+  {
+    "id": "msg-0031",
+    "thread_id": "thr-013",
+    "conversation_index": 0,
+    "is_root": true,
+    "parent_id": null,
+    "source": {
+      "type": "dl-email",
+      "dl": "hydchat@contoso.com",
+      "cross_posted_to": []
+    },
+    "subject": "PS5 Slim + 2 controllers + 4 games",
+    "from": {
+      "name": "Imran Sheikh",
+      "email": "imran.sheikh@contoso.com",
+      "alias": "imranshe"
+    },
+    "sent_datetime": "2026-07-15T22:10:00+05:30",
+    "importance": "normal",
+    "body_preview": "PS5 Slim disc edition, 8 months old, with 2 DualSense controllers and 4 games (FC26, Spider-Man 2, GT7, Elden Ring). All original bills. 42k for everything, not splitting. Miyapur,",
+    "body": "PS5 Slim disc edition, 8 months old, with 2 DualSense controllers and 4 games (FC26, Spider-Man 2, GT7, Elden Ring). All original bills. 42k for everything, not splitting. Miyapur, can deliver to campus.",
+    "has_attachments": false,
+    "attachments": [],
+    "reactions": {
+      "like": 3
+    }
+  },
+  {
+    "id": "msg-0032",
+    "thread_id": "thr-013",
+    "conversation_index": 1,
+    "is_root": false,
+    "parent_id": "msg-0031",
+    "source": {
+      "type": "dl-email",
+      "dl": "hydchat@contoso.com",
+      "cross_posted_to": []
+    },
+    "subject": "Re: PS5 Slim + 2 controllers + 4 games",
+    "from": {
+      "name": "Imran Sheikh",
+      "email": "imran.sheikh@contoso.com",
+      "alias": "imranshe"
+    },
+    "sent_datetime": "2026-07-16T09:00:00+05:30",
+    "importance": "normal",
+    "body_preview": "Correction: it's the digital edition, not disc. Games are all digital on the account.",
+    "body": "Correction: it's the digital edition, not disc. Games are all digital on the account.",
+    "has_attachments": false,
+    "attachments": [],
+    "reactions": {
+      "like": 1
+    }
+  },
+  {
+    "id": "msg-0033",
+    "thread_id": "thr-013",
+    "conversation_index": 2,
+    "is_root": false,
+    "parent_id": "msg-0032",
+    "source": {
+      "type": "dl-email",
+      "dl": "hydchat@contoso.com",
+      "cross_posted_to": []
+    },
+    "subject": "Re: PS5 Slim + 2 controllers + 4 games",
+    "from": {
+      "name": "Nikhil Bhatt",
+      "email": "nikhil.bhatt@contoso.com",
+      "alias": "nikhilbh"
+    },
+    "sent_datetime": "2026-07-19T13:45:00+05:30",
+    "importance": "normal",
+    "body_preview": "Any update on this? Is it gone?",
+    "body": "Any update on this? Is it gone?",
+    "has_attachments": false,
+    "attachments": [],
+    "reactions": {
+      "like": 4
+    }
+  },
+  {
+    "id": "msg-0034",
+    "thread_id": "thr-014",
+    "conversation_index": 0,
+    "is_root": true,
+    "parent_id": null,
+    "source": {
+      "type": "dl-email",
+      "dl": "hydchat@contoso.com",
+      "cross_posted_to": []
+    },
+    "subject": "Selling Amex Taj Voucher at 30% Discount",
+    "from": {
+      "name": "Pooja Agarwal",
+      "email": "pooja.agarwal@contoso.com",
+      "alias": "poojaaga"
+    },
+    "sent_datetime": "2026-08-01T18:00:00+05:30",
+    "importance": "normal",
+    "body_preview": "I am selling two Amex Taj vouchers at 30% discount. Voucher value 2 x 10,000 = 20,000, offered price 2 x 7,000 = 14,000. Validity: one expires October 2026, the other January 2027.",
+    "body": "I am selling two Amex Taj vouchers at 30% discount. Voucher value 2 x 10,000 = 20,000, offered price 2 x 7,000 = 14,000. Validity: one expires October 2026, the other January 2027. Redeemable at any Taj/Vivanta/SeleQtions property in India. Will transfer the voucher codes after payment. Can sell individually as well.",
+    "has_attachments": false,
+    "attachments": [],
+    "reactions": {
+      "like": 2
+    }
+  },
+  {
+    "id": "msg-0035",
+    "thread_id": "thr-014",
+    "conversation_index": 1,
+    "is_root": false,
+    "parent_id": "msg-0034",
+    "source": {
+      "type": "dl-email",
+      "dl": "hydchat@contoso.com",
+      "cross_posted_to": []
+    },
+    "subject": "Re: Selling Amex Taj Voucher at 30% Discount",
+    "from": {
+      "name": "Rohan Desai",
+      "email": "rohan.desai@contoso.com",
+      "alias": "rohandes"
+    },
+    "sent_datetime": "2026-08-02T08:30:00+05:30",
+    "importance": "normal",
+    "body_preview": "I'll take the one expiring in January.",
+    "body": "I'll take the one expiring in January.",
+    "has_attachments": false,
+    "attachments": [],
+    "reactions": {
+      "like": 0
+    }
+  },
+  {
+    "id": "msg-0036",
+    "thread_id": "thr-015",
+    "conversation_index": 0,
+    "is_root": true,
+    "parent_id": null,
+    "source": {
+      "type": "dl-email",
+      "dl": "hydchat@contoso.com",
+      "cross_posted_to": []
+    },
+    "subject": "Selling 2 tickets for The Odyssey",
+    "from": {
+      "name": "Vaishnavi Rao",
+      "email": "vaishnavi.rao@contoso.com",
+      "alias": "vaishnav"
+    },
+    "sent_datetime": "2026-08-06T10:05:00+05:30",
+    "importance": "normal",
+    "body_preview": "Selling 2 tickets for The Odyssey (mistakenly booked for Sunday instead of Saturday). ALLU Cinemas, Kokapet Sunday, 9 Aug | 1:20 PM 2 tickets, recliner seats Selling both together ",
+    "body": "Selling 2 tickets for The Odyssey (mistakenly booked for Sunday instead of Saturday).\nALLU Cinemas, Kokapet\nSunday, 9 Aug | 1:20 PM\n2 tickets, recliner seats\nSelling both together at cost price - Rs 1,100 for both. First come first served.",
+    "has_attachments": false,
+    "attachments": [],
+    "reactions": {
+      "like": 3
+    }
+  },
+  {
+    "id": "msg-0037",
+    "thread_id": "thr-016",
+    "conversation_index": 0,
+    "is_root": true,
+    "parent_id": null,
+    "source": {
+      "type": "dl-email",
+      "dl": "hydchat@contoso.com",
+      "cross_posted_to": []
+    },
+    "subject": "Fitpass Pro Membership available at very affordable price",
+    "from": {
+      "name": "Harish Chandra",
+      "email": "harish.chandra@contoso.com",
+      "alias": "harishch"
+    },
+    "sent_datetime": "2026-07-31T15:50:00+05:30",
+    "importance": "normal",
+    "body_preview": "Hi Everyone, One of my friends is relocating abroad and is looking to transfer his active FitPass Pro Annual Membership (ends on 1st June 2027). Membership details: Active PRO tier",
+    "body": "Hi Everyone, One of my friends is relocating abroad and is looking to transfer his active FitPass Pro Annual Membership (ends on 1st June 2027).\nMembership details: Active PRO tier, access to 1000+ gyms and studios across Hyderabad, unlimited check-ins, includes swimming and CrossFit partners.\nOriginal price: Rs 24,000/year. Asking: Rs 11,000 for the remaining 10 months. Transfer is officially supported by FitPass support, takes 2-3 days.",
+    "has_attachments": false,
+    "attachments": [],
+    "reactions": {
+      "like": 1
+    }
+  },
+  {
+    "id": "msg-0038",
+    "thread_id": "thr-017",
+    "conversation_index": 0,
+    "is_root": true,
+    "parent_id": null,
+    "source": {
+      "type": "dl-email",
+      "dl": "hydchat@contoso.com",
+      "cross_posted_to": [
+        "hydcd@contoso.com"
+      ]
+    },
+    "subject": "Recommendation Needed - Driving School near Kondapur Junction",
+    "from": {
+      "name": "Swathi Kamath",
+      "email": "swathi.kamath@contoso.com",
+      "alias": "swathika"
+    },
+    "sent_datetime": "2026-07-29T09:20:00+05:30",
+    "importance": "normal",
+    "body_preview": "Hi All, Looking for a good driving school near Kondapur Junction for my wife. Preferably one with female instructors and weekend batches. Any recommendations with approximate fees ",
+    "body": "Hi All, Looking for a good driving school near Kondapur Junction for my wife. Preferably one with female instructors and weekend batches. Any recommendations with approximate fees would be very helpful.",
+    "has_attachments": false,
+    "attachments": [],
+    "reactions": {
+      "like": 4
+    }
+  },
+  {
+    "id": "msg-0039",
+    "thread_id": "thr-017",
+    "conversation_index": 1,
+    "is_root": false,
+    "parent_id": "msg-0038",
+    "source": {
+      "type": "dl-email",
+      "dl": "hydchat@contoso.com",
+      "cross_posted_to": [
+        "hydcd@contoso.com"
+      ]
+    },
+    "subject": "Re: Recommendation Needed - Driving School near Kondapur Junction",
+    "from": {
+      "name": "Bhavana Setty",
+      "email": "bhavana.setty@contoso.com",
+      "alias": "bhavanas"
+    },
+    "sent_datetime": "2026-07-29T11:00:00+05:30",
+    "importance": "normal",
+    "body_preview": "Sri Sai Motor Driving School near Botanical Garden is good. 30 days course, about 8,500 including LLR assistance. They have 2 female instructors.",
+    "body": "Sri Sai Motor Driving School near Botanical Garden is good. 30 days course, about 8,500 including LLR assistance. They have 2 female instructors.",
+    "has_attachments": false,
+    "attachments": [],
+    "reactions": {
+      "like": 2
+    }
+  },
+  {
+    "id": "msg-0040",
+    "thread_id": "thr-017",
+    "conversation_index": 2,
+    "is_root": false,
+    "parent_id": "msg-0039",
+    "source": {
+      "type": "dl-email",
+      "dl": "hydchat@contoso.com",
+      "cross_posted_to": [
+        "hydcd@contoso.com"
+      ]
+    },
+    "subject": "Re: Recommendation Needed - Driving School near Kondapur Junction",
+    "from": {
+      "name": "Mohit Saxena",
+      "email": "mohit.saxena@contoso.com",
+      "alias": "mohitsax"
+    },
+    "sent_datetime": "2026-07-29T14:12:00+05:30",
+    "importance": "normal",
+    "body_preview": "+1 for Sri Sai. I did my course there last year. Cars are Maruti Swift, well maintained.",
+    "body": "+1 for Sri Sai. I did my course there last year. Cars are Maruti Swift, well maintained.",
+    "has_attachments": false,
+    "attachments": [],
+    "reactions": {
+      "like": 0
+    }
+  },
+  {
+    "id": "msg-0041",
+    "thread_id": "thr-017",
+    "conversation_index": 3,
+    "is_root": false,
+    "parent_id": "msg-0040",
+    "source": {
+      "type": "dl-email",
+      "dl": "hydchat@contoso.com",
+      "cross_posted_to": [
+        "hydcd@contoso.com"
+      ]
+    },
+    "subject": "Re: Recommendation Needed - Driving School near Kondapur Junction",
+    "from": {
+      "name": "Neha Kapoor",
+      "email": "neha.kapoor@contoso.com",
+      "alias": "nehakapo"
+    },
+    "sent_datetime": "2026-07-30T10:45:00+05:30",
+    "importance": "normal",
+    "body_preview": "Avoid the one opposite Kondapur bus stop, they cancelled half my sessions.",
+    "body": "Avoid the one opposite Kondapur bus stop, they cancelled half my sessions.",
+    "has_attachments": false,
+    "attachments": [],
+    "reactions": {
+      "like": 3
+    }
+  },
+  {
+    "id": "msg-0042",
+    "thread_id": "thr-018",
+    "conversation_index": 0,
+    "is_root": true,
+    "parent_id": null,
+    "source": {
+      "type": "dl-email",
+      "dl": "hydchat@contoso.com",
+      "cross_posted_to": []
+    },
+    "subject": "Maid / cook available in Nallagandla area",
+    "from": {
+      "name": "Anjali Menon",
+      "email": "anjali.menon@contoso.com",
+      "alias": "anjalime"
+    },
+    "sent_datetime": "2026-08-03T07:30:00+05:30",
+    "importance": "normal",
+    "body_preview": "Our cook Lakshmi is looking for 2 more houses in Nallagandla / Tellapur. She has worked with us for 3 years, cooks South Indian and North Indian, very hygienic and punctual. Charge",
+    "body": "Our cook Lakshmi is looking for 2 more houses in Nallagandla / Tellapur. She has worked with us for 3 years, cooks South Indian and North Indian, very hygienic and punctual. Charges around 4,000 for 2 people, one time cooking. Available 7-9 AM or 6-8 PM slots. Happy to give a reference, ping me for her number.",
+    "has_attachments": false,
+    "attachments": [],
+    "reactions": {
+      "like": 1
+    }
+  },
+  {
+    "id": "msg-0043",
+    "thread_id": "thr-019",
+    "conversation_index": 0,
+    "is_root": true,
+    "parent_id": null,
+    "source": {
+      "type": "dl-email",
+      "dl": "hydchat@contoso.com",
+      "cross_posted_to": []
+    },
+    "subject": "Hyd to Srisailam - Day trip | Bus | Carpool",
+    "from": {
+      "name": "Suresh Babu",
+      "email": "suresh.babu@contoso.com",
+      "alias": "sureshba"
+    },
+    "sent_datetime": "2026-08-02T20:00:00+05:30",
+    "importance": "normal",
+    "body_preview": "Hi Folks, Looking for reliable transportation to Srisailam from Nallagandla for family (women). Preferably a day-trip. Are there good bus options? Or if someone is driving that wee",
+    "body": "Hi Folks, Looking for reliable transportation to Srisailam from Nallagandla for family (women). Preferably a day-trip. Are there good bus options? Or if someone is driving that weekend and has spare seats, happy to share fuel and toll.",
+    "has_attachments": false,
+    "attachments": [],
+    "reactions": {
+      "like": 4
+    }
+  },
+  {
+    "id": "msg-0044",
+    "thread_id": "thr-019",
+    "conversation_index": 1,
+    "is_root": false,
+    "parent_id": "msg-0043",
+    "source": {
+      "type": "dl-email",
+      "dl": "hydchat@contoso.com",
+      "cross_posted_to": []
+    },
+    "subject": "Re: Hyd to Srisailam - Day trip | Bus | Carpool",
+    "from": {
+      "name": "Ravi Teja",
+      "email": "ravi.teja@contoso.com",
+      "alias": "raviteja"
+    },
+    "sent_datetime": "2026-08-03T09:15:00+05:30",
+    "importance": "normal",
+    "body_preview": "APSRTC runs a day package from Gowliguda, leaves 4 AM returns 11 PM, around 1,200 per head including darshan ticket. Booked it last month, decent.",
+    "body": "APSRTC runs a day package from Gowliguda, leaves 4 AM returns 11 PM, around 1,200 per head including darshan ticket. Booked it last month, decent.",
+    "has_attachments": false,
+    "attachments": [],
+    "reactions": {
+      "like": 2
+    }
+  },
+  {
+    "id": "msg-0045",
+    "thread_id": "thr-019",
+    "conversation_index": 2,
+    "is_root": false,
+    "parent_id": "msg-0044",
+    "source": {
+      "type": "dl-email",
+      "dl": "hydchat@contoso.com",
+      "cross_posted_to": []
+    },
+    "subject": "Re: Hyd to Srisailam - Day trip | Bus | Carpool",
+    "from": {
+      "name": "Kavya Reddy",
+      "email": "kavya.reddy@contoso.com",
+      "alias": "kavyared"
+    },
+    "sent_datetime": "2026-08-03T10:00:00+05:30",
+    "importance": "normal",
+    "body_preview": "We are driving on 16th Aug from Kondapur, Innova, 2 seats free. Fuel split works out to about 900 each. Ping me if interested.",
+    "body": "We are driving on 16th Aug from Kondapur, Innova, 2 seats free. Fuel split works out to about 900 each. Ping me if interested.",
+    "has_attachments": false,
+    "attachments": [],
+    "reactions": {
+      "like": 0
+    }
+  },
+  {
+    "id": "msg-0046",
+    "thread_id": "thr-020",
+    "conversation_index": 0,
+    "is_root": true,
+    "parent_id": null,
+    "source": {
+      "type": "dl-email",
+      "dl": "hydchat@contoso.com",
+      "cross_posted_to": []
+    },
+    "subject": "Daily carpool - Bachupally to campus",
+    "from": {
+      "name": "Naveen Kumar",
+      "email": "naveen.kumar@contoso.com",
+      "alias": "naveenku"
+    },
+    "sent_datetime": "2026-07-24T08:00:00+05:30",
+    "importance": "normal",
+    "body_preview": "Starting a daily carpool from Bachupally to campus. Leaving 8:15 AM, returning 6:30 PM, Mon-Thu (Fri WFH). 2 seats available, sedan, AC. 3,500 per month per person covers fuel and ",
+    "body": "Starting a daily carpool from Bachupally to campus. Leaving 8:15 AM, returning 6:30 PM, Mon-Thu (Fri WFH). 2 seats available, sedan, AC. 3,500 per month per person covers fuel and tolls. Route via Miyapur - Botanical Garden, can pick up on the way.",
+    "has_attachments": false,
+    "attachments": [],
+    "reactions": {
+      "like": 3
+    }
+  },
+  {
+    "id": "msg-0047",
+    "thread_id": "thr-020",
+    "conversation_index": 1,
+    "is_root": false,
+    "parent_id": "msg-0046",
+    "source": {
+      "type": "dl-email",
+      "dl": "hydchat@contoso.com",
+      "cross_posted_to": []
+    },
+    "subject": "Re: Daily carpool - Bachupally to campus",
+    "from": {
+      "name": "Priyanka Das",
+      "email": "priyanka.das@contoso.com",
+      "alias": "priyanka"
+    },
+    "sent_datetime": "2026-07-25T09:30:00+05:30",
+    "importance": "normal",
+    "body_preview": "I'm in, I'm at Miyapur X roads.",
+    "body": "I'm in, I'm at Miyapur X roads.",
+    "has_attachments": false,
+    "attachments": [],
+    "reactions": {
+      "like": 1
+    }
+  },
+  {
+    "id": "msg-0048",
+    "thread_id": "thr-020",
+    "conversation_index": 2,
+    "is_root": false,
+    "parent_id": "msg-0047",
+    "source": {
+      "type": "dl-email",
+      "dl": "hydchat@contoso.com",
+      "cross_posted_to": []
+    },
+    "subject": "Re: Daily carpool - Bachupally to campus",
+    "from": {
+      "name": "Naveen Kumar",
+      "email": "naveen.kumar@contoso.com",
+      "alias": "naveenku"
+    },
+    "sent_datetime": "2026-07-25T10:00:00+05:30",
+    "importance": "normal",
+    "body_preview": "Great, 1 seat left now.",
+    "body": "Great, 1 seat left now.",
+    "has_attachments": false,
+    "attachments": [],
+    "reactions": {
+      "like": 4
+    }
+  },
+  {
+    "id": "msg-0049",
+    "thread_id": "thr-021",
+    "conversation_index": 0,
+    "is_root": true,
+    "parent_id": null,
+    "source": {
+      "type": "dl-email",
+      "dl": "hydchat@contoso.com",
+      "cross_posted_to": []
+    },
+    "subject": "Join us for a Murder Mystery Evening - 9 August",
+    "from": {
+      "name": "Ishita Sharma",
+      "email": "ishita.sharma@contoso.com",
+      "alias": "ishitash"
+    },
+    "sent_datetime": "2026-08-04T12:00:00+05:30",
+    "importance": "normal",
+    "body_preview": "Hi everyone, Looking for a fun weekend activity with friends or colleagues? Join us for an interactive Murder Mystery Solving experience! Sunday, 9 August 2026 | 5:00 PM - 8:00 PM ",
+    "body": "Hi everyone, Looking for a fun weekend activity with friends or colleagues? Join us for an interactive Murder Mystery Solving experience!\nSunday, 9 August 2026 | 5:00 PM - 8:00 PM\nVenue: Cafe Niloufer banquet, Jubilee Hills\nRs 799 per person, includes snacks and beverages. Teams of 4-6. 24 slots, 9 already taken. Register via the form link.",
+    "has_attachments": false,
+    "attachments": [],
+    "reactions": {
+      "like": 2
+    }
+  },
+  {
+    "id": "msg-0050",
+    "thread_id": "thr-022",
+    "conversation_index": 0,
+    "is_root": true,
+    "parent_id": null,
+    "source": {
+      "type": "dl-email",
+      "dl": "hydchat@contoso.com",
+      "cross_posted_to": []
+    },
+    "subject": "Blood Requirement (A- Blood Group) for Surgery Tomorrow",
+    "from": {
+      "name": "Manoj Pillai",
+      "email": "manoj.pillai@contoso.com",
+      "alias": "manojpil"
+    },
+    "sent_datetime": "2026-08-05T16:30:00+05:30",
+    "importance": "high",
+    "body_preview": "Hi Everyone, My relative is undergoing surgery tomorrow and is in urgent need of A- (A Negative) blood. Hospital: Kamineni Hospital, LB Nagar, Hyderabad. 2 units required by 10 AM ",
+    "body": "Hi Everyone, My relative is undergoing surgery tomorrow and is in urgent need of A- (A Negative) blood. Hospital: Kamineni Hospital, LB Nagar, Hyderabad. 2 units required by 10 AM tomorrow. If you have A- blood group and are willing to donate, please reach out urgently. Thank you.",
+    "has_attachments": false,
+    "attachments": [],
+    "reactions": {
+      "like": 0
+    }
+  },
+  {
+    "id": "msg-0051",
+    "thread_id": "thr-022",
+    "conversation_index": 1,
+    "is_root": false,
+    "parent_id": "msg-0050",
+    "source": {
+      "type": "dl-email",
+      "dl": "hydchat@contoso.com",
+      "cross_posted_to": []
+    },
+    "subject": "Re: Blood Requirement (A- Blood Group) for Surgery Tomorrow",
+    "from": {
+      "name": "Sanjay Bhatia",
+      "email": "sanjay.bhatia@contoso.com",
+      "alias": "sanjaybh"
+    },
+    "sent_datetime": "2026-08-05T17:10:00+05:30",
+    "importance": "normal",
+    "body_preview": "I'm A-, will be there by 9 AM.",
+    "body": "I'm A-, will be there by 9 AM.",
+    "has_attachments": false,
+    "attachments": [],
+    "reactions": {
+      "like": 3
+    }
+  },
+  {
+    "id": "msg-0052",
+    "thread_id": "thr-022",
+    "conversation_index": 2,
+    "is_root": false,
+    "parent_id": "msg-0051",
+    "source": {
+      "type": "dl-email",
+      "dl": "hydchat@contoso.com",
+      "cross_posted_to": []
+    },
+    "subject": "Re: Blood Requirement (A- Blood Group) for Surgery Tomorrow",
+    "from": {
+      "name": "Manoj Pillai",
+      "email": "manoj.pillai@contoso.com",
+      "alias": "manojpil"
+    },
+    "sent_datetime": "2026-08-05T21:00:00+05:30",
+    "importance": "normal",
+    "body_preview": "Both units arranged. Thank you all, closing this.",
+    "body": "Both units arranged. Thank you all, closing this.",
+    "has_attachments": false,
+    "attachments": [],
+    "reactions": {
+      "like": 1
+    }
+  },
+  {
+    "id": "msg-0053",
+    "thread_id": "thr-023",
+    "conversation_index": 0,
+    "is_root": true,
+    "parent_id": null,
+    "source": {
+      "type": "dl-email",
+      "dl": "hydchat@contoso.com",
+      "cross_posted_to": []
+    },
+    "subject": "Free to a good home - study lamp, bean bag, cartons",
+    "from": {
+      "name": "Yash Trivedi",
+      "email": "yash.trivedi@contoso.com",
+      "alias": "yashtriv"
+    },
+    "sent_datetime": "2026-08-01T09:00:00+05:30",
+    "importance": "normal",
+    "body_preview": "Giving away free: 1 study lamp (working), 1 bean bag (needs refill), about 8 packing cartons in good shape. Pickup from Gopanpally before Sunday, otherwise they go to the scrap guy",
+    "body": "Giving away free: 1 study lamp (working), 1 bean bag (needs refill), about 8 packing cartons in good shape. Pickup from Gopanpally before Sunday, otherwise they go to the scrap guy.",
+    "has_attachments": false,
+    "attachments": [],
+    "reactions": {
+      "like": 4
+    }
+  },
+  {
+    "id": "msg-0054",
+    "thread_id": "thr-023",
+    "conversation_index": 1,
+    "is_root": false,
+    "parent_id": "msg-0053",
+    "source": {
+      "type": "dl-email",
+      "dl": "hydchat@contoso.com",
+      "cross_posted_to": []
+    },
+    "subject": "Re: Free to a good home - study lamp, bean bag, cartons",
+    "from": {
+      "name": "Ayesha Khan",
+      "email": "ayesha.khan@contoso.com",
+      "alias": "ayeshakh"
+    },
+    "sent_datetime": "2026-08-01T09:45:00+05:30",
+    "importance": "normal",
+    "body_preview": "Taking the cartons, will pick up this evening.",
+    "body": "Taking the cartons, will pick up this evening.",
+    "has_attachments": false,
+    "attachments": [],
+    "reactions": {
+      "like": 2
+    }
+  },
+  {
+    "id": "msg-0055",
+    "thread_id": "thr-024",
+    "conversation_index": 0,
+    "is_root": true,
+    "parent_id": null,
+    "source": {
+      "type": "dl-email",
+      "dl": "hydchat@contoso.com",
+      "cross_posted_to": []
+    },
+    "subject": "Did anyone else notice the coffee bean quality has gone down post the Toastea upgrade?",
+    "from": {
+      "name": "Rakesh Menon",
+      "email": "rakesh.menon@contoso.com",
+      "alias": "rakeshme"
+    },
+    "sent_datetime": "2026-07-26T11:00:00+05:30",
+    "importance": "normal",
+    "body_preview": "Did anyone else notice that the coffee bean quality has gone down post the recent upgrade to the Toastea vending machines? Building 3 pantry especially.",
+    "body": "Did anyone else notice that the coffee bean quality has gone down post the recent upgrade to the Toastea vending machines? Building 3 pantry especially.",
+    "has_attachments": false,
+    "attachments": [],
+    "reactions": {
+      "like": 0
+    }
+  },
+  {
+    "id": "msg-0056",
+    "thread_id": "thr-024",
+    "conversation_index": 1,
+    "is_root": false,
+    "parent_id": "msg-0055",
+    "source": {
+      "type": "dl-email",
+      "dl": "hydchat@contoso.com",
+      "cross_posted_to": []
+    },
+    "subject": "Re: Did anyone else notice the coffee bean quality has gone down post the Toastea upgrade?",
+    "from": {
+      "name": "Sunita Rao",
+      "email": "sunita.rao@contoso.com",
+      "alias": "sunitara"
+    },
+    "sent_datetime": "2026-07-26T11:30:00+05:30",
+    "importance": "normal",
+    "body_preview": "Yes, the cappuccino is much more watery now. Raised a facilities ticket last week.",
+    "body": "Yes, the cappuccino is much more watery now. Raised a facilities ticket last week.",
+    "has_attachments": false,
+    "attachments": [],
+    "reactions": {
+      "like": 3
+    }
+  },
+  {
+    "id": "msg-0057",
+    "thread_id": "thr-024",
+    "conversation_index": 2,
+    "is_root": false,
+    "parent_id": "msg-0056",
+    "source": {
+      "type": "dl-email",
+      "dl": "hydchat@contoso.com",
+      "cross_posted_to": []
+    },
+    "subject": "Re: Did anyone else notice the coffee bean quality has gone down post the Toastea upgrade?",
+    "from": {
+      "name": "Facilities Helpdesk",
+      "email": "fmhelp@contoso.com",
+      "alias": "fmhelp"
+    },
+    "sent_datetime": "2026-07-27T10:00:00+05:30",
+    "importance": "normal",
+    "body_preview": "Thanks for flagging. The vendor is recalibrating the machines in Building 3 this week.",
+    "body": "Thanks for flagging. The vendor is recalibrating the machines in Building 3 this week.",
+    "has_attachments": false,
+    "attachments": [],
+    "reactions": {
+      "like": 1
+    }
+  },
+  {
+    "id": "msg-0058",
+    "thread_id": "thr-025",
+    "conversation_index": 0,
+    "is_root": true,
+    "parent_id": null,
+    "source": {
+      "type": "dl-email",
+      "dl": "hydchat@contoso.com",
+      "cross_posted_to": []
+    },
+    "subject": "Job referral ai and linkedin premium",
+    "from": {
+      "name": "Sakshi Jain",
+      "email": "sakshi.jain@contoso.com",
+      "alias": "sakshija"
+    },
+    "sent_datetime": "2026-08-04T15:00:00+05:30",
+    "importance": "normal",
+    "body_preview": "Hi All, Do we have an AI tool that scans a resume and shares which profiles anyone can be referred to? Also how can we buy LinkedIn Premium as an employee at a discounted price? Th",
+    "body": "Hi All, Do we have an AI tool that scans a resume and shares which profiles anyone can be referred to? Also how can we buy LinkedIn Premium as an employee at a discounted price? Thanks",
+    "has_attachments": false,
+    "attachments": [],
+    "reactions": {
+      "like": 4
+    }
+  },
+  {
+    "id": "msg-0059",
+    "thread_id": "thr-025",
+    "conversation_index": 1,
+    "is_root": false,
+    "parent_id": "msg-0058",
+    "source": {
+      "type": "dl-email",
+      "dl": "hydchat@contoso.com",
+      "cross_posted_to": []
+    },
+    "subject": "Re: Job referral ai and linkedin premium",
+    "from": {
+      "name": "Arjun Nanda",
+      "email": "arjun.nanda@contoso.com",
+      "alias": "arjunnan"
+    },
+    "sent_datetime": "2026-08-04T16:20:00+05:30",
+    "importance": "normal",
+    "body_preview": "LinkedIn Premium is free for FTEs via the internal benefits portal, check under Learning.",
+    "body": "LinkedIn Premium is free for FTEs via the internal benefits portal, check under Learning.",
+    "has_attachments": false,
+    "attachments": [],
+    "reactions": {
+      "like": 2
+    }
+  },
+  {
+    "id": "msg-0060",
+    "thread_id": "thr-026",
+    "conversation_index": 0,
+    "is_root": true,
+    "parent_id": null,
+    "source": {
+      "type": "dl-email",
+      "dl": "hydchat@contoso.com",
+      "cross_posted_to": []
+    },
+    "subject": "Skoda Kushaq 1.5 Style MT for Sale - reposting",
+    "from": {
+      "name": "Aarav Menon",
+      "email": "aarav.menon@contoso.com",
+      "alias": "aaravmen"
+    },
+    "sent_datetime": "2026-08-05T09:00:00+05:30",
+    "importance": "normal",
+    "body_preview": "Reposting as the earlier mail got buried. Skoda Kushaq 1.5 Style MT, 2022, single owner, 38,500 kms, now at 14L. Nallagandla. Test drives on weekends.",
+    "body": "Reposting as the earlier mail got buried. Skoda Kushaq 1.5 Style MT, 2022, single owner, 38,500 kms, now at 14L. Nallagandla. Test drives on weekends.",
+    "has_attachments": false,
+    "attachments": [],
+    "reactions": {
+      "like": 0
+    }
+  }
+]

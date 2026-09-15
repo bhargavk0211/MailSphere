@@ -1,0 +1,29 @@
+# Azure Static Web Apps deployment – Frontend
+
+trigger:
+  branches:
+    include:
+      - main
+  paths:
+    include:
+      - frontend/**
+
+pool:
+  vmImage: "ubuntu-latest"
+
+steps:
+  - task: NodeTool@0
+    inputs:
+      versionSpec: "20.x"
+
+  - script: |
+      cd frontend
+      npm ci
+      npm run build
+    displayName: "Build frontend"
+
+  - task: AzureStaticWebApp@0
+    inputs:
+      app_location: "frontend"
+      output_location: "dist"
+      azure_static_web_apps_api_token: $(DEPLOYMENT_TOKEN)

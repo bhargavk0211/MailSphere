@@ -1,0 +1,182 @@
+{
+  "vehicles": [
+    {
+      "listing_id": "lst-001",
+      "title": "Skoda Kushaq 1.5 Style MT (2022) — single owner",
+      "status": "negotiating",
+      "featured_score": 0.763
+    },
+    {
+      "listing_id": "lst-002",
+      "title": "Royal Enfield Classic 350 (2019) — 22k km",
+      "status": "sold",
+      "featured_score": 0.0
+    },
+    {
+      "listing_id": "lst-003",
+      "title": "Hyundai Creta SX(O) diesel AT — lease transfer, 24 months left",
+      "status": "available",
+      "featured_score": 0.588
+    },
+    {
+      "listing_id": "lst-004",
+      "title": "Wanted: used scooter under ₹55k for campus commute",
+      "status": "open",
+      "featured_score": 0.447
+    },
+    {
+      "listing_id": "lst-026",
+      "title": "Skoda Kushaq 1.5 Style MT (2022) — repost",
+      "status": "duplicate",
+      "featured_score": 0.0
+    }
+  ],
+  "real-estate": [
+    {
+      "listing_id": "lst-005",
+      "title": "2 BHK semi-furnished — Mantri Celestia, Gachibowli",
+      "status": "available",
+      "featured_score": 0.634
+    },
+    {
+      "listing_id": "lst-006",
+      "title": "3 BHK fully furnished — PBEL City",
+      "status": "available",
+      "featured_score": 0.63
+    },
+    {
+      "listing_id": "lst-007",
+      "title": "Male flatmate wanted — semi-master room, 4BHK, Prestige High Fields",
+      "status": "available",
+      "featured_score": 0.534
+    },
+    {
+      "listing_id": "lst-008",
+      "title": "Short-stay private room near campus — daily or monthly",
+      "status": "available",
+      "featured_score": 0.516
+    },
+    {
+      "listing_id": "lst-009",
+      "title": "3 BHK resale — Magnum Heights, Nallagandla, 1600 sft",
+      "status": "available",
+      "featured_score": 0.481
+    }
+  ],
+  "furniture-appliances": [
+    {
+      "listing_id": "lst-010",
+      "title": "Move-out sale — 9 items, Vertex Panache, Kokapet",
+      "status": "partially-sold",
+      "featured_score": 0.551
+    },
+    {
+      "listing_id": "lst-023",
+      "title": "Free — study lamp, bean bag, packing cartons",
+      "status": "partially-claimed",
+      "featured_score": 0.476
+    }
+  ],
+  "multi": [
+    {
+      "listing_id": "lst-011",
+      "title": "Combined post — move-out items + 2BHK for rent (Narsingi)",
+      "status": "available",
+      "featured_score": 0.267
+    }
+  ],
+  "electronics": [
+    {
+      "listing_id": "lst-012",
+      "title": "iPhone 15 Pro 256GB Natural Titanium — 94% battery",
+      "status": "reserved",
+      "featured_score": 0.745
+    },
+    {
+      "listing_id": "lst-013",
+      "title": "PS5 Slim (digital) + 2 controllers + 4 games",
+      "status": "stale",
+      "featured_score": 0.39
+    }
+  ],
+  "vouchers-tickets": [
+    {
+      "listing_id": "lst-014",
+      "title": "2 x Amex Taj vouchers (₹10,000 each) at 30% off",
+      "status": "partially-sold",
+      "featured_score": 0.475
+    },
+    {
+      "listing_id": "lst-015",
+      "title": "2 x The Odyssey tickets — ALLU Cinemas Kokapet, Sun 9 Aug",
+      "status": "available",
+      "featured_score": 0.635
+    }
+  ],
+  "memberships-subscriptions": [
+    {
+      "listing_id": "lst-016",
+      "title": "FitPass Pro annual membership transfer — 10 months left",
+      "status": "available",
+      "featured_score": 0.388
+    }
+  ],
+  "services": [
+    {
+      "listing_id": "lst-017",
+      "title": "Driving school recommendations near Kondapur Junction",
+      "status": "answered",
+      "featured_score": 0.483
+    },
+    {
+      "listing_id": "lst-018",
+      "title": "Cook available — Nallagandla / Tellapur, morning or evening slots",
+      "status": "available",
+      "featured_score": 0.501
+    }
+  ],
+  "carpool-travel": [
+    {
+      "listing_id": "lst-019",
+      "title": "Transport to Srisailam from Nallagandla — day trip",
+      "status": "matched",
+      "featured_score": 0.462
+    },
+    {
+      "listing_id": "lst-020",
+      "title": "Daily carpool — Bachupally to campus, 1 seat left",
+      "status": "partially-filled",
+      "featured_score": 0.474
+    }
+  ],
+  "community-events": [
+    {
+      "listing_id": "lst-021",
+      "title": "Murder Mystery Evening — Sun 9 Aug, Jubilee Hills",
+      "status": "open",
+      "featured_score": 0.518
+    }
+  ],
+  "community-help": [
+    {
+      "listing_id": "lst-022",
+      "title": "A- blood needed — Kamineni Hospital LB Nagar",
+      "status": "resolved",
+      "featured_score": 0.0
+    }
+  ],
+  "non-listing": [
+    {
+      "listing_id": "lst-024",
+      "title": "Coffee quality after Toastea machine upgrade",
+      "status": "not-a-listing",
+      "featured_score": 0.0
+    },
+    {
+      "listing_id": "lst-025",
+      "title": "AI resume-to-referral tool and LinkedIn Premium discount",
+      "status": "answered",
+      "featured_score": 0.358
+    }
+  ]
+}
